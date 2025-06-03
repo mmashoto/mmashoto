@@ -38,7 +38,7 @@
 #### 🔹️About me🔹️
 I am an aspiring business analyst 
 
-<h2 align="center">Skills</h2>
+<h3 align="center">Skills</h3>
 <div align="center">
 
 ###### Frontend Development:
