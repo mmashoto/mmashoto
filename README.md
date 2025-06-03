@@ -50,7 +50,7 @@ I am an aspiring business analyst
 
 ###### Programming and Markup Languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i= html,css,r,python,sql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,r,python,sql"/>
     <img/>
 
 ###### Database Management & Cloud Hosting:
