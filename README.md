@@ -108,6 +108,7 @@ I am an aspiring business analyst
 
 ###### Frameworks and Libraries:
 <div align="center">
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![GitHub-Actions](https://img.shields.io/badge/github%20Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white)
