@@ -81,8 +81,9 @@ I am an aspiring business analyst
 ![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2312100E.svg?style=for-the-badge&logo=Canva&logoColor=white) !![Jira](https://img.shields.io/badge/jira-%2312100E.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-%2312100E?style=for-the-badge&logo=powerbi&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%2312100E.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-%2312100E.svg?style=for-the-badge&logo=Asana&logoColor=white)
  
 
 ###### Frameworks and Libraries:
