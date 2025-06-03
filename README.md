@@ -46,17 +46,11 @@ I am an aspiring business analyst
 ###### Programming and Markup Languages:
 <div align="center">
 
-
-
 ![CSS](https://img.shields.io/badge/CSS-%2312100E.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%2312100E.svg?style=for-the-badge&logo=html&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-%2312100E.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%2312100E.svg?style=for-the-badge&logo=python&logoColor=white)
-!![JavaScript](https://img.shields.io/badge/JavaScript-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-     
-
 ![R](https://img.shields.io/badge/R-%2312100E.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)       
   
