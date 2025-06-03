@@ -42,15 +42,16 @@
 <h2 align="center">Skills</h2>
 
 
-###### Languages & Syntax:
-<div align="center">
-###### Languages & Syntax:
-    <img src="https://skillicons.dev/icons?i=r,python"/>
-    <img/>
+
 
 ###### Frontend Development:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css"/>
+    <img/>
+
+###### Languages & Syntax:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=r,python"/>
     <img/>
 
 ###### Database Management:
