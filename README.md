@@ -103,7 +103,6 @@ I am an aspiring business analyst
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmashoto&" alt="mmashoto" /></p>
 
 
@@ -116,7 +115,7 @@ I am an aspiring business analyst
 
 
 
-[Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![[Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) !![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
