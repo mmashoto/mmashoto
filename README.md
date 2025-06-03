@@ -39,7 +39,7 @@ I am an aspiring business analyst
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Medium %2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=blue" /></a>
 <!--PORTFOLIO -->
  <a
-
+<br>
 <h3 align="center">Skills</h3>
 <div align="center">
 
