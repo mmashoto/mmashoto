@@ -38,7 +38,9 @@
 
 
 <h2 align="center">Skills </h2>
-
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
 ###### Languages & Syntax:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python"/>
