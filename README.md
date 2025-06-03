@@ -61,7 +61,7 @@
 
 ###### Development Tools & Environments:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,notion"/>
+    <img src="https://skillicons.dev/icons?i=vscode,vs,github,git"/>
     <img/>
 
 
