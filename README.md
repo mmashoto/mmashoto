@@ -86,15 +86,11 @@ I am an aspiring business analyst
 ###### Frameworks and Libraries:
 <div align="center">
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/github%20%Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
+![GitHub-Actions](https://img.shields.io/badge/github%20Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
     
-Pandas-%23026AA7
-
-2312100E
 
 
 
