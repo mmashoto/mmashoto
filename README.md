@@ -80,16 +80,8 @@ I am an aspiring business analyst
 ![Audacity](https://img.shields.io/badge/Audacity%2312100E.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
-
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-
-![GitHubDesktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
- 
-
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+![GitHub Desktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
