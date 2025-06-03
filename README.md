@@ -12,12 +12,12 @@
  
  🌱 I’m currently learning **Power BI& SQL**
 
- 📎 I'm learning blog writing <a href="here"> https://medium.com/@mmashoto</a>
+ 📎 I'm learning blog writing <a href="https://medium.com/@mmashoto">here</a>
 
  </div>
 
 
-- 📫 Reach out to me at: <a href="mashoto.makobe99@gmail.com">mashoto.makobe99@gmaiom</a>
+- 📫 Reach out to me at: <a href="mashoto.makobe99@gmail.com">mashoto.makobe99@gmail.com</a>
 <br>
    
 
