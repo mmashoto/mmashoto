@@ -17,7 +17,7 @@
  </div>
 
 
-- 📫 Reach out to me at: <a href="mashoto.makobe99@gmail.com">mashoto.makobe99@gmail.com</a>
+- 📫 Reach out to me at: <a href="mashoto.makobe99@gmail.com">mashoto.makobe99@gmaiom</a>
 <br>
    
 
