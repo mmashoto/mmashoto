@@ -48,9 +48,9 @@ I am an aspiring business analyst
     <img src="https://skillicons.dev/icons?i=html,css"/>
     <img/>
 
-###### Languages & Syntax:
+###### Programming and Markup Languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,python"/>
+    <img src="https://skillicons.dev/icons?i= html,css,r,python,sql"/>
     <img/>
 
 ###### Database Management & Cloud Hosting:
