@@ -62,7 +62,7 @@ I am an aspiring business analyst
 
 ###### Software and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,adobe"/>
     <img/>
 
 
