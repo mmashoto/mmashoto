@@ -97,9 +97,7 @@ I am an aspiring business analyst
 
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=Mmashoto&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmashoto&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
