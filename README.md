@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!!+I'm+Mashoto+Makobe&font=Righteous&size=30&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there;I'm+Mashoto+Makobe&font=Righteous&size=30&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
