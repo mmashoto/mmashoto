@@ -11,7 +11,8 @@
  🔭 I’m currently working on **a project**
  
  🌱 I’m currently learning **Power BI& SQL**
- 📎 I'm learning blog writing <a href="here">https://medium.com/@mmashoto</a>
+
+ 📎 I'm learning blog writing <a href="here"> https://medium.com/@mmashoto</a>
 
  </div>
 
