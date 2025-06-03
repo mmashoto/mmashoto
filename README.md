@@ -73,20 +73,41 @@ I am an aspiring business analyst
 
 ###### Software and Tools:
 <div align="center">
+
+![Adobe](https://img.shields.io/badge/Adobe%2312100E.svg?style=for-the-badge&logo=adobe&logoColor=white)
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+![Audacity](https://img.shields.io/badge/Audacity%2312100E.svg?style=for-the-badge&logo=Audacity&logoColor=white)
+
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+
+![Discord](https://img.shields.io/badge/Discord%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
+
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+
+![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
+
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
+![GitHub Desktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 ###### Frameworks and Libraries:
 <div align="center">
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![GitHub-Actions](https://img.shields.io/badge/github%20Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white)
