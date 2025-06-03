@@ -1,13 +1,3 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mmashoto&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Mashoto+Makobe&font=Righteous&size=30&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
@@ -102,12 +92,6 @@ I am an aspiring business analyst
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
     
 <h3 align="center">GitHub Stats</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=blue_navy&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=Mmashoto&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=ambient_gradient&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=graywhite&hide_border=true)<br/>
