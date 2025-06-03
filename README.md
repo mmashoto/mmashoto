@@ -93,7 +93,7 @@ I am an aspiring business analyst
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
     
-<h3 align="center">GitHub</h3>
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
