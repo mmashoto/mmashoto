@@ -1,21 +1,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Mashoto+Makobe&font=Fira%20Code&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!!+I'm+Mashoto+Makobe&font=Fira%20Code&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
 
 
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Mashoto Makobe</h1>
 <h3 align="center">I'm an aspiring business analyst</h3>
 
 - 📫 How to reach me **mashoto.makobe99@gmail.com**
