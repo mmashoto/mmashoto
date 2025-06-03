@@ -94,22 +94,11 @@ I am an aspiring business analyst
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
     
 <h3 align="center">GitHub Stats</h3>
-<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmashoto&" alt="mmashoto" /></p>
-
-
-
-
- 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mmashoto&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmashoto&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
