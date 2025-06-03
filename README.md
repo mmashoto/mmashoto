@@ -28,7 +28,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,python,mysql,sqlite,Tableau" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,python,mysql,sqlite,postgre" />
     <img/><br>
 </div>
 
