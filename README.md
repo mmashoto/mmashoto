@@ -44,11 +44,10 @@
 
 ###### Languages & Syntax:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion"/>
-    <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres"/>
+    <img src="https://skillicons.dev/icons?i=r,python"/>
     <img/>
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
