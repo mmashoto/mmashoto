@@ -60,7 +60,7 @@ I am an aspiring business analyst
 
 ###### Data Visualization:
 
-###### Development Tools & Environments:
+###### Software and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
     <img/>
