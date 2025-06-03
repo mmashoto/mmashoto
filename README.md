@@ -21,11 +21,10 @@
 
 <!-- Social Links -->
 <div align="center">
-
+<!-- GMAIL -->
   <a href="mailto:mashoto.makobe99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=blue" /></a>
-
 <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=white" /></a>
+  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=blue" /></a>
 <!--PORTFOLIO -->
  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=todoist&logoColor=white&color=blue" /></a>
 <!-- MEDIUM -->
