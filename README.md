@@ -52,7 +52,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
     <img/>
+
 ###### Data Visualization:
+
 ###### Development Tools & Environments:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
