@@ -57,14 +57,14 @@
 ###### Database Management:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
     <img/>
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
 ###### Development Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github, windows"/>
+    <img/>
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
