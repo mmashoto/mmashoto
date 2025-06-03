@@ -1,7 +1,7 @@
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=
-Hi!! I'm Mashoto Makobe ; Welcome to profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
@@ -10,6 +10,16 @@ Hi!! I'm Mashoto Makobe ; Welcome to profile!&font=Fira%20Code&center=true&width
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Mashoto Makobe</h1>
 <h3 align="center">I'm an aspiring business analyst</h3>
