@@ -41,10 +41,10 @@
 
 <h2 align="center">Skills</h2>
 
-<h2 align="center">###### Languages & Syntax:</h2>
 
 ###### Languages & Syntax:
 <div align="center">
+###### Languages & Syntax:
     <img src="https://skillicons.dev/icons?i=r,python"/>
     <img/>
 
