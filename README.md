@@ -31,7 +31,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,python,mysql,sqlite,postgres,notion" />
     <img/><br>
 </div>
-
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,python,mysql,sqlite,postgres,notion" />
+    <img/><br>
+</div>
 
 
 
