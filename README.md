@@ -30,8 +30,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,python,mysql,sqlite,postgres,notion" />
     <img/>
-</div>
-<div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,python,mysql,sqlite,postgres,notion" />
     <img/>
 </div>
