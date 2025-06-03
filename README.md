@@ -19,6 +19,8 @@
 <br>
 </br>
    
+### ✨&nbsp; Connect with me 
+
 
 <!-- Social Links -->
 <div align="center">
@@ -34,6 +36,8 @@
 </div>
 
 
+### ✨&nbsp; About me
+I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
 <h2 align="center">Skills</h2>
 <div align="center">
