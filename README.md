@@ -24,12 +24,12 @@
 </div>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools </h2>
 
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres" />
     <img/>
 
 
