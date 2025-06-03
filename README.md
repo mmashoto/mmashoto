@@ -73,7 +73,7 @@ I am an aspiring business analyst
 
 ###### Software and Tools:
 <div align="center">
-![Adobe](https://img.shields.io/badge/Adobe%2312100E.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%2312100E.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -81,14 +81,14 @@ I am an aspiring business analyst
 
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
 
-![Discord](https://img.shields.io/badge/Discord%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
 
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 ![GitHubDesktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+ 
 
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
@@ -138,3 +138,4 @@ I am an aspiring business analyst
 
 
 
+ <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
