@@ -37,8 +37,6 @@
 
 
 <h2 align="center">Languages-Frameworks-Tools </h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion"/
 
 ###### Languages & Syntax:
 <div align="center">
@@ -54,13 +52,13 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
     <img/>
-
+###### Data Visualization:
 ###### Development Tools & Environments:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,vs,github,git"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
     <img/>
 
-###### Data Visualization:
+
 
 
 
