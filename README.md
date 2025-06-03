@@ -81,16 +81,13 @@ I am an aspiring business analyst
 ![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+     
 
 ###### Frameworks and Libraries:
 <div align="center">
