@@ -55,7 +55,7 @@ I am an aspiring business analyst
 
 ###### Database Management & Cloud Hosting:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,notion"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,notion, github-pages"/>
     <img/>
 
 ###### Data Visualization:
