@@ -41,7 +41,7 @@
 
 <h2 align="center">Skills</h2>
 
-<h2 align="###### Languages & Syntax:">Skills</h2>
+<h2 align="center">###### Languages & Syntax:</h2>
 
 ###### Languages & Syntax:
 <div align="center">
