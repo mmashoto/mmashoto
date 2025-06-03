@@ -34,7 +34,7 @@ I am an aspiring business analyst
  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=todoist&logoColor=white&color=black" /></a>
 <!-- MEDIUM -->
 
-<a href="https://medium.com/@mmashoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a> 
+<a href="https://medium.com/@mmashoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 
 
 
