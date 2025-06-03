@@ -54,9 +54,8 @@ I am an aspiring business analyst
 ![Java](https://img.shields.io/badge/Java-%2312100E.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python%2312100E.svg?style=for-the-badge&logo=python&logoColor=white)
-
+!![JavaScript](https://img.shields.io/badge/JavaScript-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=white)
      
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 
 ![R](https://img.shields.io/badge/R-%2312100E.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)       
