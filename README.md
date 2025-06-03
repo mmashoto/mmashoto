@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Mashoto+Makobe&font=Righteous&size=30&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p><br>
-<br>
 <h3 align="center">I'm an aspiring Business Analyst</h3>
-<br/>
 
 
 <div align="center">
