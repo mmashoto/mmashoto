@@ -55,20 +55,16 @@
     <img/>
 
 ###### Database Management:
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
     <img/>
 
-###### Development Tools:
+###### Development Tools & Environments:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github, windows"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,notion"/>
     <img/>
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 
 ###### Development Environments:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
