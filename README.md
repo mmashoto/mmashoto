@@ -77,10 +77,7 @@ I am an aspiring business analyst
 
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-![Audacity](https://img.shields.io/badge/Audacity%2312100E.svg?style=for-the-badge&logo=Audacity&logoColor=white)
-
-      <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-
+![Audacity](https://img.shields.io/badge/Audacity%2312100E.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
 
