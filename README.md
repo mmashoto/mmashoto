@@ -35,12 +35,12 @@
 </div>
 
 
-
-
-<h2 align="center">Skills </h2>
-<details>
+details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
+
+<h2 align="center">Skills </h2>
+
 ###### Languages & Syntax:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python"/>
