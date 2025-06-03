@@ -89,7 +89,7 @@ I am an aspiring business analyst
 
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
-![GitHub Desktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHubDesktop](https://img.shields.io/badge/GitHub %20Desktop%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
 
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 
