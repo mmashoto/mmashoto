@@ -55,11 +55,6 @@ I am an aspiring business analyst
 
 ###### Database Management & Cloud Hosting:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,notion,github"/>
-    <img/>
-
-<h3>🗄️ Databases and Cloud Hosting</h3>
-
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
