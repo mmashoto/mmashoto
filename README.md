@@ -26,6 +26,10 @@
   <a 
 
 
+ <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" /></a>
+  <a 
+
+
 
 <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" />
