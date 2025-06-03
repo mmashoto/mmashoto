@@ -5,7 +5,8 @@
 </p>
 <br/>
 
-<h3 align="center">I'm an aspiring business analyst</h3>
+<h3 align="center">I'm an aspiring Business Analyst</h3>
+<br/r>
 
 - 📫 How to reach me **mashoto.makobe99@gmail.com**
 
