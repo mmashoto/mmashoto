@@ -82,9 +82,6 @@ I am an aspiring business analyst
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
 
 ![Discord](https://img.shields.io/badge/Discord%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-
 ![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
 
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
