@@ -68,6 +68,8 @@ I am an aspiring business analyst
   </p>
 
 ###### Data Visualization:
+![Excel](https://img.shields.io/badge/Excel-%2312100E.svg?style=for-the-badge&logo=excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-%2312100E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
 
 ###### Software and Tools:
 <div align="center">
