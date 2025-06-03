@@ -6,7 +6,6 @@
 </p>
 
 <h3 align="center">About Me</h3>
-#### 🔹️About me🔹️
 I am an aspiring business analyst 
 
 
