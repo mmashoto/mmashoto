@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mashoto Makobe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm an aspiring business analyst</h3>
 
 - 📫 How to reach me **mashoto.makobe99@gmail.com**
 
