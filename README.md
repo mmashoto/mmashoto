@@ -38,16 +38,12 @@
 
 <h2 align="center">Languages-Frameworks-Tools </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion"/>
-    <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres"/>
-    <img/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion"/
 
 ###### Languages & Syntax:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python"/>
     <img/>
-
-
 
 ###### Frontend Development:
 <div align="center">
@@ -64,14 +60,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,vs,github,git"/>
     <img/>
 
+###### Data Visualization:
 
 
-###### Development Environments:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-<br>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
 
