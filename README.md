@@ -80,6 +80,9 @@ I am an aspiring business analyst
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2312100E.svg?style=for-the-badge&logo=Canva&logoColor=white) !![Jira](https://img.shields.io/badge/jira-%2312100E.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%2312100E.svg?style=for-the-badge&logo=Trello&logoColor=white)
  
 
 ###### Frameworks and Libraries:
@@ -101,9 +104,7 @@ I am an aspiring business analyst
 
 
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) !![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 
 
 
