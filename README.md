@@ -40,7 +40,6 @@ details>
   <br/>
 
 <h2 align="center">Skills </h2>
-
 ###### Languages & Syntax:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python"/>
