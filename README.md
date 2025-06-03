@@ -1,4 +1,6 @@
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Mashoto+Makobe&font=Righteous&size=30&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
@@ -11,6 +13,9 @@
  🌱 I’m currently learning **Power BI& SQL**
 
  </div>
+
+
+
  
 <div align="center"> 
   <a href="mailto:mashoto.makobe99@gmail.com">
@@ -23,9 +28,10 @@
 </div>
 
 
+
+
+
 <h2 align="center">Languages-Frameworks-Tools </h2>
-
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,Googlecloud" />
     <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres" />
@@ -33,13 +39,7 @@
 
 
 
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmashoto&" alt="mmashoto" /></p>
 
