@@ -8,7 +8,7 @@
 <h3 align="center">I'm an aspiring Business Analyst</h3>
 <br/r>
 <div align="center">
-I'm currently working on **projects**
+I'm currently working on ***projects***
 I'm currently learning data visualization ( Power BI)
 </div>
 
