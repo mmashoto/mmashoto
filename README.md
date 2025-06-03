@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=r,python,mysql,sqlite,postgres"/>
     <img/>
 
-
+###### Languages & Syntax:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
 
