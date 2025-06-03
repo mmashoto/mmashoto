@@ -55,18 +55,16 @@ I am an aspiring business analyst
 ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)       
   
 
-
 ###### Database Management & Cloud Hosting:
 <div align="center">
 
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%2312100E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-%2312100E.svg?style=for-the-badge&logo=oracle&logoColor=white)   
+![MySQL](https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)      
      
-
 ###### Data Visualization:
 ![Excel](https://img.shields.io/badge/Excel-%2312100E.svg?style=for-the-badge&logo=excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-%2312100E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
@@ -82,9 +80,7 @@ I am an aspiring business analyst
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-     
+ 
 
 ###### Frameworks and Libraries:
 <div align="center">
@@ -96,19 +92,9 @@ I am an aspiring business analyst
     
 
 
-
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmashoto&" alt="mmashoto" /></p>
-
-
-
-
-
 
 
 
