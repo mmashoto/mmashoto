@@ -34,15 +34,10 @@
 <a href="https://medium.com/@mmashoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=blue" /></a> 
 </div>
 
-<!---
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>--->
+
 
 <h2 align="center">Skills</h2>
-
 <div align="center">
-
 
 ###### Frontend Development:
 <div align="center">
