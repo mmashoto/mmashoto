@@ -58,17 +58,14 @@ I am an aspiring business analyst
 
 ###### Database Management & Cloud Hosting:
 <div align="center">
+
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) 
-
 ![MySQL](https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
- 
-  
-
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=blue"></a>
-  </p>
+![Notion](https://img.shields.io/badge/Notion%2312100E.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-%2312100E.svg?style=for-the-badge&logo=oracle&logoColor=white)   
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)      
+     
 
 ###### Data Visualization:
 ![Excel](https://img.shields.io/badge/Excel-%2312100E.svg?style=for-the-badge&logo=excel&logoColor=white)
