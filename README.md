@@ -14,10 +14,6 @@
  
  🌱 I’m currently learning **Power BI& SQL**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
