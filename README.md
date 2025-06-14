@@ -51,8 +51,7 @@ I am an aspiring business analyst
 ![Python](https://img.shields.io/badge/Python-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%2312100E.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)       
-  
+
 
 ###### Database Management & Cloud Hosting:
 <div align="center">
