@@ -95,3 +95,6 @@ I am an aspiring business analyst
 
 ![](https://github-readme-stats.vercel.app/api?username=Mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=graywhite&hide_border=true)<br/>
+
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=blue)](https://github.com/DataWithBaraa)
