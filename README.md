@@ -97,4 +97,4 @@ I am an aspiring business analyst
 ![](https://nirzak-streak-stats.vercel.app/?user=Mmashoto&theme=graywhite&hide_border=true)<br/>
 
 <!-- Profile Views Badge -->
-[![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=blue)](https://github.com/DataWithBaraa)
+[![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=white)](https://github.com/DataWithBaraa)
