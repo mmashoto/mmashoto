@@ -50,7 +50,8 @@ I am an aspiring business analyst
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%2312100E.svg?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=black)       
+![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)       
   
 
 ###### Database Management & Cloud Hosting:
