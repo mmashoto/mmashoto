@@ -16,10 +16,14 @@
 
 <div align="left">
 🔭 I’m currently working on **something exciting ;)**
+
 🌱 I’m currently learning **Power BI& SQL**
- 📎 I'm learning blog writing <a href="https://medium.com/@mmashoto">here</a>
+
+📎 I'm learning blog writing <a href="https://medium.com/@mmashoto">here</a>
+
 🤝 I'm looking to collaborate on **Excel, SQL, Python, and Data Visualization Projects using Power BI and Tableau**
- On this GitHub you'll find a collection of my projects and resources showcasing my skills & love for data analysis. 
+
+On this GitHub you'll find a collection of my projects and resources showcasing my skills & love for data analysis. 
  </div>
 
 <!-- ======================= -->
@@ -35,7 +39,7 @@
 <h3 align="center"> ☕️ Connect with me</h3>
 Let's stay connected! Feel free to connect with me on the following platforms: 
 
-<div align="center">
+<div align="left">
 <!-- GMAIL -->
   <a href="mailto:mashoto.makobe99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
 
