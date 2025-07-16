@@ -1,3 +1,8 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmashoto&show_icons=true&locale=en&layout=compact" alt="mmashoto" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmashoto&show_icons=true&locale=en" alt="mmashoto" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmashoto&" alt="mmashoto" /></p>
 <!-- I'm gonna place a gif here-->
 
 <!-- ======================= -->
