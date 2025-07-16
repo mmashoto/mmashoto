@@ -143,7 +143,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!-- ======================= -->
 <!--     Profile Views Badge      -->
 <!-- ======================= -->
-![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=blue)
 
 
 <p align="center">
