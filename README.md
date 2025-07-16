@@ -16,8 +16,11 @@
 
 <div align="left">
 🔭 I’m currently working on **something exciting ;)**
+
 🌱 I’m currently learning **Power BI& SQL**
+
  📎 I'm learning blog writing <a href="https://medium.com/@mmashoto">here</a>
+
 🤝 I'm looking to collaborate on **Excel, SQL, Python, and Data Visualization Projects using Power BI and Tableau**
  On this GitHub you'll find a collection of my projects and resources showcasing my skills & love for data analysis. 
  </div>
@@ -66,7 +69,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![R](https://img.shields.io/badge/R-%2312100E.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)  
 
-
 ###### Database Management & Cloud Hosting:
 <div align="center">
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -76,7 +78,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)        
 
-     
 ###### Data Visualization:
 <div align="center">
 ![Excel](https://img.shields.io/badge/Excel-%2312100E.svg?style=for-the-badge&logo=excel&logoColor=white)
@@ -103,9 +104,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2312100E.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
- 
 
 ###### Frameworks and Libraries:
 <div align="center">
