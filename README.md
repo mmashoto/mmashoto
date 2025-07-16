@@ -74,7 +74,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![MySQL](https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)        ******?,  
+![SQL Server](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)        
 
      
 ###### Data Visualization:
@@ -119,15 +119,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 </details>
   
 
-<details>
-  <summary><strong>Blog & Writing</strong></summary>
-Apart from data analytics, I maintain a blog on 
-<a href="https://medium.com/@mmashoto">Medium</a>
-and <a href="https://www.linkedin.com/in/makobemashoto/@mmashoto>LinkedIn</a>
- 
-A sample of  most recent articles:
-[Coming soon!! :)]
-
  </details>
 
 <!-- ======================= -->
@@ -135,7 +126,6 @@ A sample of  most recent articles:
 <!-- ======================= -->
 <details>
   <summary><strong>GitHub Stats</strong></summary>
-
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=graywhite&hide_border=true)<br/>
 </details>
@@ -145,7 +135,6 @@ A sample of  most recent articles:
 <!-- ======================= -->
 <details>
   <summary><strong>Top Languages</strong></summary>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=dark" alt="Top Languages" />
 </details>
 
@@ -161,3 +150,17 @@ A sample of  most recent articles:
 </p>
 
 
+
+
+
+
+
+
+<details>
+  <summary><strong>Blog & Writing</strong></summary>
+Apart from data analytics, I maintain a blog on 
+<a href="https://medium.com/@mmashoto">Medium</a>
+and <a href="https://www.linkedin.com/in/makobemashoto/@mmashoto>LinkedIn</a>
+ 
+A sample of  most recent articles:
+[Coming soon!! :)]
