@@ -46,7 +46,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!--LINKEDIN-->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=black" /></a>
 <!--PORTFOLIO -->
- <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=todoist&logoColor=white&color=black" /></a>
+ <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=chrome&logoColor=white&color=black" /></a>
 <!-- MEDIUM -->
 <a href="https://medium.com/@mmashoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 
