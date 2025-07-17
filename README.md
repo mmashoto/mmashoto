@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous+Code&size=24&duration=4000&pause=1000&color=6AD1E3&center=true&vCenter=true&width=550&lines=Aspiring%2C+Data+Analyst;Excel+%7C+Power+BI+%7C+Python+Git+%7C+SQL;Driven+by+Data%2C+Inspired+by+Insights" alt="Typing SVG" />
 </p>
 <!-- I'm gonna place a gif here-->
- ![GIF](https://github.com/mmashoto/mmashoto/blob/main/assets/view.gif)
+![Image](https://github.com/user-attachments/assets/ea26beff-8381-4845-b31c-9b070d4103d6)
 
 <!-- ======================= -->
 <!--     🙋‍♀️ About Me       -->
