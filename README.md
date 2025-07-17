@@ -56,7 +56,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <details>
   <summary><strong>Skills</strong></summary>
 <br>
-<h3 align="center">Skills</h3>
 <div align="center">
 
 ###### Programming and Markup Languages:
@@ -127,9 +126,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <details>
   <summary><strong>Curated Articles</strong></summary>
 <br>
-<h3 align="center">Skills</h3>
 <div align="center">
-
 Apart from data analytics, I maintain a blog on 
 <a href="https://medium.com/@mmashoto">Medium</a>
 and <a href="https://www.linkedin.com/in/makobemashoto/@mmashoto">LinkedIn</a>
@@ -143,7 +140,6 @@ Below are sample of most recent articles:
 <details>
   <summary><strong>GitHub Analytics</strong></summary>
 <br>
-<h3 align="center">GitHub Analytics</h3>
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=graywhite&hide_border=true)<br/>
@@ -155,7 +151,6 @@ Below are sample of most recent articles:
 <details>
   <summary><strong>Top Languages</strong></summary>
 <br>
-<h3 align="center">Top Languages</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=graywhite" alt="Top Languages" />
 </details>
