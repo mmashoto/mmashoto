@@ -1,5 +1,5 @@
-7
-<!-- I'm gonna place a gif here-->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mashoto Makobe</h1> <p align="center">
 
 <!-- ======================= -->
 <!--  ✨ Header Typing Animation   ✨  -->
@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous+Code&size=24&duration=4000&pause=1000&color=6AD1E3&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mashoto+Makobe;Aspiring+Data+Analyst;Excel+%7C+Power+BI+%7C+Python+%7C+SQL;Driven+by+Data%2C+Inspired+by+Insights" alt="Typing SVG" />
 </p>
-
+<!-- I'm gonna place a gif here-->
 
 <!-- ======================= -->
 <!--     🙋‍♀️ About Me       -->
@@ -78,14 +78,14 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![MySQL](https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)        
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%2312100E.svg?style=for-the-badge&logo=sql-server&logoColor=white)        
 
 ###### Data Visualization:
 <div align="center">
 
 ![Excel](https://img.shields.io/badge/Excel-%2312100E.svg?style=for-the-badge&logo=excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-%2312100E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%2312100E.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ###### Project Management:
@@ -95,39 +95,50 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![Asana](https://img.shields.io/badge/Asana-%2312100E.svg?style=for-the-badge&logo=Asana&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%2312100E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-###### Software and Tools:
+###### Version Control, Software and Platforms:
 <div align="center">
 
-![Adobe](https://img.shields.io/badge/Adobe-%2312100E.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-%2312100E.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![GitHubDesktop](https://img.shields.io/badge/GitHub%20Desktop-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2312100E.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%2312100E.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-%2312100E.svg?style=for-the-badge&logo=audacity&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 
 ###### Frameworks and Libraries:
 <div align="center">
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2312100E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![GitHub-Actions](https://img.shields.io/badge/Github%20Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![GitHub-Actions](https://img.shields.io/badge/Github%20Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
 ![VS Code Editor](https://img.shields.io/badge/VS%20Code%20Editor-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
-  
-
- </details>
 
 <!-- ======================= -->
-<!--     📊  GitHub Stats      -->
+<!--     ✍️ Blog & Writing     -->
 <!-- ======================= -->
 <details>
-  <summary><strong>GitHub Stats</strong></summary>
+  <summary><strong>Curated Articles</strong></summary>
+
+Apart from data analytics, I maintain a blog on 
+<a href="https://medium.com/@mmashoto">Medium</a>
+and <a href="https://www.linkedin.com/in/makobemashoto/@mmashoto>LinkedIn</a>
+ 
+Below are sample of most recent articles:
+[Coming soon!! :)]
+
+<!-- ======================= -->
+<!--     📊  GitHub Analytics      -->
+<!-- ======================= -->
+<details>
+  <summary><strong>GitHub Analytics</strong></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=graywhite&hide_border=true)<br/>
@@ -138,7 +149,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!-- ======================= -->
 <details>
   <summary><strong>Top Languages</strong></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=graywhite" alt="Top Languages" />
 </details>
 
 
@@ -159,23 +170,3 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 
 
-<details>
-  <summary><strong>Blog & Writing</strong></summary>
-Apart from data analytics, I maintain a blog on 
-<a href="https://medium.com/@mmashoto">Medium</a>
-and <a href="https://www.linkedin.com/in/makobemashoto/@mmashoto>LinkedIn</a>
- 
-A sample of  most recent articles:
-[Coming soon!! :)]
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmashoto &theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmashoto &theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto &theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mmashoto &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
