@@ -5,9 +5,10 @@
 <!--  ✨ Header Typing Animation   ✨  -->
 <!-- ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous+Code&size=24&duration=4000&pause=1000&color=6AD1E3&center=true&vCenter=true&width=550&lines=Aspiring%2C+Data+Analyst;Excel+%7C+Power+BI+%7C+Python+%7C+SQL;Driven+by+Data%2C+Inspired+by+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous+Code&size=24&duration=4000&pause=1000&color=6AD1E3&center=true&vCenter=true&width=550&lines=Aspiring%2C+Data+Analyst;Excel+%7C+Power+BI+%7C+Python+Git+%7C+SQL;Driven+by+Data%2C+Inspired+by+Insights" alt="Typing SVG" />
 </p>
 <!-- I'm gonna place a gif here-->
+ ![Alt Text](/assets/view.gif)
 
 <!-- ======================= -->
 <!--     🙋‍♀️ About Me       -->
@@ -46,7 +47,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!--LINKEDIN-->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=black" /></a>
 <!--PORTFOLIO -->
- <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=chrome&logoColor=white&color=black" /></a>
+ <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=todoist&logoColor=white&color=black" /></a>
 <!-- MEDIUM -->
 <a href="https://medium.com/@mmashoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 
