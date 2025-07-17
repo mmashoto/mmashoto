@@ -142,7 +142,9 @@ Below are sample of most recent articles:
 <!-- ======================= -->
 <details>
   <summary><strong>GitHub Analytics</strong></summary>
-
+<br>
+<h3 align="center">GitHub Analytics</h3>
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=graywhite&hide_border=true)<br/>
 </details>
@@ -152,6 +154,9 @@ Below are sample of most recent articles:
 <!-- ======================= -->
 <details>
   <summary><strong>Top Languages</strong></summary>
+<br>
+<h3 align="center">Top Languages</h3>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=graywhite" alt="Top Languages" />
 </details>
 
