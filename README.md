@@ -13,9 +13,8 @@
 <!--     🙋‍♀️ About Me       -->
 <!-- ======================= -->
 <h3 align="center">About Me</h3>
-<h3 align="center">💫 About Me</h3>
 
-<p align="center">
+<p align="left">
   I'm a <b>Data Analyst</b> passionate about transforming data into insights that drive meaningful decisions.  
   I enjoy uncovering trends, solving problems, and presenting information in ways that bring clarity and action.  
   <br><br>
@@ -23,11 +22,12 @@
   My ability to <b>empathize with stakeholders</b> allows me to understand their needs, translate challenges into analytical goals, and deliver insights that truly support their objectives.  
 </p>
 
-<p align="center">
+<p align="left">
   🌱 <b>Currently learning:</b> Advanced analytics, Power BI, and Python for automation <br>
   💡 <b>Interests:</b> Business analytics, data storytelling, and process improvement <br>
   ✨ <b>Goal:</b> To grow as a data professional who combines analytical precision, creativity, and empathy to make data meaningful and impactful  
 </p>
+
 <!-- ======================= -->
 <!-- 📬 Contact Information -->
 <!-- ======================= -->
