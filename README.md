@@ -27,10 +27,7 @@
   💡 <b>Interests:</b> Business analytics, data storytelling, and process improvement <br>
   ✨ <b>Goal:</b> To grow as a data professional who combines analytical precision, creativity, and empathy to make data meaningful and impactful  
 </p>
-
-<br>
-</br>
-   
+ 
 <!-- ======================= -->
 <!--   🔗 Social Profiles    -->
 <!-- ======================= -->
