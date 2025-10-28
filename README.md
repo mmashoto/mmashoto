@@ -40,6 +40,12 @@
 
 
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='40"'><h3 align="center"> ☕️ Connect with me</h3>
+
+<p align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png" width="40" style="vertical-align: middle;"/>
+  <span style="font-size: 22px; font-weight: bold;">☕️ Connect with me</span>
+</p>
+
 Let's stay connected! Feel free to connect with me on the following platforms: 
 
 <div align="center">
