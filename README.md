@@ -28,10 +28,6 @@
   ✨ <b>Goal:</b> To grow as a data professional who combines analytical precision, creativity, and empathy to make data meaningful and impactful  
 </p>
 
-<!-- ======================= -->
-<!-- 📬 Contact Information -->
-<!-- ======================= -->
-📫 Reach out to me at: <a href="mashoto.makobe99@gmail.com">mashoto.makobe99@gmail.com</a>
 <br>
 </br>
    
