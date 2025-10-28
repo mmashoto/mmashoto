@@ -13,19 +13,21 @@
 <!--     🙋‍♀️ About Me       -->
 <!-- ======================= -->
 <h3 align="center">About Me</h3>
-🌱 I am an aspiring data analyst 
+<h3 align="center">💫 About Me</h3>
 
-<div align="left">
-🔭 I’m currently working on **something exciting ;)**
+<p align="center">
+  I'm a <b>Data Analyst</b> passionate about transforming data into insights that drive meaningful decisions.  
+  I enjoy uncovering trends, solving problems, and presenting information in ways that bring clarity and action.  
+  <br><br>
+  I have a <b>penchant for creative visualization</b>, influenced by my artistic background, which helps me communicate complex data in simple, engaging ways.  
+  My ability to <b>empathize with stakeholders</b> allows me to understand their needs, translate challenges into analytical goals, and deliver insights that truly support their objectives.  
+</p>
 
-🌱 I’m currently learning **Power BI& SQL**
-
- 📎 I'm learning blog writing <a href="https://medium.com/@mmashoto">here</a>
-
-🤝 I'm looking to collaborate on **Excel, SQL, Python, and Data Visualization Projects using Power BI and Tableau**
- On this GitHub you'll find a collection of my projects and resources showcasing my skills & love for data analysis. 
- </div>
-
+<p align="center">
+  🌱 <b>Currently learning:</b> Advanced analytics, Power BI, and Python for automation <br>
+  💡 <b>Interests:</b> Business analytics, data storytelling, and process improvement <br>
+  ✨ <b>Goal:</b> To grow as a data professional who combines analytical precision, creativity, and empathy to make data meaningful and impactful  
+</p>
 <!-- ======================= -->
 <!-- 📬 Contact Information -->
 <!-- ======================= -->
