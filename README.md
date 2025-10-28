@@ -39,8 +39,7 @@
 <!-- place a octa cat gif here -->
 
 
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='40"'> 
-<h3 align="center"> ☕️ Connect with me</h3>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='40"'> <h3 align="center"> ☕️ Connect with me</h3>
 Let's stay connected! Feel free to connect with me on the following platforms: 
 
 <div align="center">
