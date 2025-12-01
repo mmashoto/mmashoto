@@ -162,6 +162,11 @@ Below are sample of most recent articles:
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mmashoto&type=languages)
 
 
+<a href="https://github.com/mmashoto/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mmashoto" />
+</a>
+
+
 
 </details>
 
