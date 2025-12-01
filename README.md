@@ -162,7 +162,8 @@ Below are sample of most recent articles:
   <summary><strong>Top Languages</strong></summary>
 <br>
 <div align="center">
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact)
 
 </details>
 
