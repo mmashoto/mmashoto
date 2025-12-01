@@ -141,12 +141,17 @@ Below are sample of most recent articles:
   <summary><strong>GitHub Analytics</strong></summary>
 <br>
 <div align="center">
-
+<!---Option 1
 ![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=graywhite&hide_border=true)<br/>
-
-
-
+-->
+<!--- Option 2
+<a href="https://github.com/mmashoto/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mmashoto" />
+</a>
+--->
+<!---Option 3-->
+  
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mmashoto)](https://github.com/mmashoto/github-readme-profile)
 </details>
 
@@ -157,19 +162,7 @@ Below are sample of most recent articles:
   <summary><strong>Top Languages</strong></summary>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=graywhite" alt="Top Languages" />
 
-<a href="https://github.com/mmashoto/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mmashoto" />
-</a>
-  
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mmashoto&type=languages)
-
-
-
-<a href="https://github.com/mmashoto/convoychat">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mmashoto&repo=AI-Generated-Video-Detector" />
-</a>
 
 </details>
 
