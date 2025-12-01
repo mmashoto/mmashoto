@@ -158,15 +158,18 @@ Below are sample of most recent articles:
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=graywhite" alt="Top Languages" />
-  
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mmashoto&type=languages)
-
 
 <a href="https://github.com/mmashoto/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mmashoto" />
 </a>
+  
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mmashoto&type=languages)
 
 
+
+<a href="https://github.com/mmashoto/convoychat">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mmashoto&repo=AI-Generated-Video-Detector" />
+</a>
 
 </details>
 
