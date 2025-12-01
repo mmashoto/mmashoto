@@ -154,7 +154,8 @@ Below are sample of most recent articles:
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=graywhite" alt="Top Languages" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=donut-vertical)](https://github.com/mmashoto/github-readme-stats)  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=donut-vertical)(https://github.com/mmashoto/github-readme-stats)  
 </details>
 
 
