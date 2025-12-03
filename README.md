@@ -76,36 +76,36 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-6E6E6E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%2312100E.svg?style=for-the-badge&logo=sql-server&logoColor=white)        
+![SQLite](https://img.shields.io/badge/SQLite-6E6E6E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-6E6E6E.svg?style=for-the-badge&logo=sql-server&logoColor=white)        
 
 ###### Data Visualization:
 <div align="center">
 
-![Excel](https://img.shields.io/badge/Excel-%2312100E.svg?style=for-the-badge&logo=excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-%2312100E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-6E6E6E.svg?style=for-the-badge&logo=excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-6E6E6E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-6E6E6E.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ###### Project Management:
 <div align="center">
 
-![Jira](https://img.shields.io/badge/jira-%2312100E.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-%2312100E.svg?style=for-the-badge&logo=Asana&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%2312100E.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-6E6E6E.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-6E6E6E.svg?style=for-the-badge&logo=Asana&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 ###### Version Control, Software and Platforms:
 <div align="center">
 
-![GitHubDesktop](https://img.shields.io/badge/GitHub%20Desktop-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2312100E.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%2312100E.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-%2312100E.svg?style=for-the-badge&logo=audacity&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2312100E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
+![GitHubDesktop](https://img.shields.io/badge/GitHub%20Desktop-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6E6E6E.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-6E6E6E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-6E6E6E.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-6E6E6E.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-6E6E6E.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-6E6E6E.svg?style=for-the-badge&logo=audacity&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-6E6E6E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 
 ###### Frameworks and Libraries:
 <div align="center">
