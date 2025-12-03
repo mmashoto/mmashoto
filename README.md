@@ -230,10 +230,9 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
  
 <p align="center">
-  <em>“Innovation is the ability to see change as an opportunity – not a threat.” 
-- Steve Jobs</em>  
+  <em>“𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓸𝓷 𝓲𝓼 𝓽𝓱𝓮 𝓪𝓫𝓲𝓵𝓲𝓽𝔂 𝓽𝓸 𝓼𝓮𝓮 𝓬𝓱𝓪𝓷𝓰𝓮 𝓪𝓼 𝓪𝓷 𝓸𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝔂 – 𝓷𝓸𝓽 𝓪 𝓽𝓱𝓻𝓮𝓪𝓽.”  
+- 𝓢𝓽𝓮𝓿𝓮 𝓙𝓸𝓫𝓼</em>  
 </p>
-
 
 
 
