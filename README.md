@@ -13,41 +13,6 @@
 <!--     🙋‍♀️ About Me       -->
 <!-- ======================= -->
 
-<!---delete-->
-
-<div align="center" style="background: linear-gradient(135deg, #E3F2FD, #F7B5CD); padding:30px; border-radius:20px; max-width:700px; margin:auto;">
-
-<h3>About Me</h3>
-
-<p>
-🎨 With a background in <b>Industrial Engineering</b> and artistic design, I specialize in turning complex data into <span style="color:#A7C7E7"><b>clear, engaging insights</b></span>.<br>
-🤝 I empathize with stakeholders to translate challenges into analytical goals that deliver real impact.
-</p>
-
-<p>
-🌱 <b>Currently learning:</b> <span style="color:#A7C7E7"><b>Advanced Analytics</b></span>, <span style="color:#A7C7E7"><b>Power BI</b></span>, <span style="color:#A7C7E7"><b>Python for automation</b></span>
-</p>
-
-<p>
-💡 <b>What I do for fun:</b> <span style="color:#F7B5CD"><b>Data Storytelling</b></span>, <span style="color:#F7B5CD"><b>Process Improvement</b></span>, <span style="color:#F7B5CD"><b>Creative Design</b></span>
-</p>
-
-<p>
-🚀 <b>Professional goal:</b> To grow as a data professional who combines <span style="color:#A7C7E7"><b>analytical precision</b></span>, <span style="color:#F7B5CD"><b>creativity</b></span>, and <b>empathy</b> to make data meaningful and impactful.
-</p>
-
-</div>
-
-
-<!---delete-->
-
-
-
-
-
-
-
-
 
 <h3 align="center">About Me</h3>
 
