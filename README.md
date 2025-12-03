@@ -131,41 +131,43 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Stakeholder Projects:
 <div align="center">
 
+<!--PROJECT 1--->
+
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
 
+<!--PROJECT 2--->
 
+<a href="https://www.linkedin.com/in/makobemashoto/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
+</a>
 
-<!--PROJECT 1--->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
+<!--PROJECT 3--->
 
+<a href="https://www.linkedin.com/in/makobemashoto/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
+</a>
 
-<!--PROJECT 1--->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
-
-<!--PROJECT 1--->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
+<!--PROJECT 4--->
+<a href="https://www.linkedin.com/in/makobemashoto/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
+</a>
 
 ###### Stakeholder Projects:
 <div align="center">
 
 <!--PROJECT 1--->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
-
-
-<!--PROJECT 1--->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
-
-
-
-
-
 <a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F4C2C2&labelColor=F4C2C2" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
 </a>
 
+<!--PROJECT 2--->
+<a href="https://www.linkedin.com/in/makobemashoto/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
+</a>
 
+<!--PROJECT 3--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
 </a>
@@ -217,20 +219,17 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 </details>
 
-
+---
 <!-- ======================= -->
 <!--     Profile Views Badge      -->
 <!-- ======================= -->
-![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=blue)
 
-
----
 ![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=A7C7E7&labelColor=A7C7E7&logoColor=ffffff)
 
  
 <p align="center">
   <em>“Innovation is the ability to see change as an opportunity – not a threat.” 
-Steve Jobs</em>  
+- Steve Jobs</em>  
 </p>
 
 
