@@ -154,8 +154,14 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 </a>
 --->
 <!---Option 3-->
-  
+<!--  
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mmashoto)](https://github.com/mmashoto/github-readme-profile)
+-->
+
+<!---Option 4-->
+![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
+
+
 </details>
 
 <!-- ======================= -->
