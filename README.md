@@ -130,6 +130,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Stakeholder Projects:
 <div align="center">
 
+![Black box](./blackbox.svg)
 
 ###### Personal Projects:
 <div align="center">
