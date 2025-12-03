@@ -229,7 +229,8 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
  
 <p align="center">
-  <em>“Where numbers tell stories, and insights drive decisions.”</em>  
+  <em>“Innovation is the ability to see change as an opportunity – not a threat.” 
+Steve Jobs</em>  
 </p>
 
 
