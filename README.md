@@ -224,6 +224,10 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=blue)
 
 
+---
+![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=A7C7E7&labelColor=A7C7E7&logoColor=ffffff)
+
+ 
 <p align="center">
   <em>“Where numbers tell stories, and insights drive decisions.”</em>  
 </p>
