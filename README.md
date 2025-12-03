@@ -60,13 +60,13 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Programming and Markup Languages:
 <div align="center">
 
-![CSS](https://img.shields.io/badge/CSS-%2312100E.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%2312100E.svg?style=for-the-badge&logo=HTML&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%2312100E.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%2312100E.svg?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=sql&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-6E6E6E.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6E6E6E.svg?style=for-the-badge&logo=HTML&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6E6E6E.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6E6E6E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6E6E6E.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-6E6E6E.svg?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-6E6E6E.svg?style=for-the-badge&logo=sql&logoColor=white)  
 
 ###### Database Management & Cloud Hosting:
 <div align="center">
@@ -75,7 +75,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-6E6E6E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6E6E6E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-6E6E6E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-6E6E6E.svg?style=for-the-badge&logo=sql-server&logoColor=white)        
 
@@ -110,14 +110,14 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Frameworks and Libraries:
 <div align="center">
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2312100E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![GitHub-Actions](https://img.shields.io/badge/Github%20Actions-%2312100E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
-![VS Code Editor](https://img.shields.io/badge/VS%20Code%20Editor-%2312100E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-6E6E6E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-6E6E6E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6E6E6E.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-6E6E6E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-6E6E6E.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-6E6E6E.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![GitHub-Actions](https://img.shields.io/badge/Github%20Actions-6E6E6E.svg?style=for-the-badge&logo=github%20actions&logoColor=white)   
+![VS Code Editor](https://img.shields.io/badge/VS%20Code%20Editor-6E6E6E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
 <!-- ======================= -->
