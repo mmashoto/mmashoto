@@ -162,6 +162,10 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
 
 
+
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+
 </details>
 
 <!-- ======================= -->
