@@ -177,6 +177,9 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=donut-vertical)](https://github.com/mmashoto/github-readme-stats)
+
+
 </details>
 
 
