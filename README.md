@@ -41,12 +41,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 <div align="center">
 <!-- GMAIL -->
-  <a href="mailto:mashoto.makobe99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-
-
-<!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Gmail-A7C7E7.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-
+  <a href="mailto:mashoto.makobe99@gmail.com"><img src="https://img.shields.io/badge/Gmail-A7C7E7.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
 <!--LINKEDIN-->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-6E6E6E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=black" /></a>
 <!--PORTFOLIO -->
