@@ -120,18 +120,21 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 </details>
 
 <!-- ======================= -->
-<!--     ✍️ Blog & Writing     -->
+<!--     Projects    -->
 <!-- ======================= -->
 <details>
-  <summary><strong>Curated Articles</strong></summary>
+  <summary><strong>Projects</strong></summary>
 <br>
 <div align="center">
-Apart from data analytics, I maintain a blog on 
-<a href="https://medium.com/@mmashoto">Medium</a>
-and <a href="https://www.linkedin.com/in/makobemashoto/@mmashoto">LinkedIn</a>
- 
-Below are sample of most recent articles:
-[Coming soon!! :)]
+
+###### Stakeholder Projects:
+<div align="center">
+
+
+###### Personal Projects:
+<div align="center">
+
+
 </details>
 
 <!-- ======================= -->
