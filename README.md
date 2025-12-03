@@ -131,50 +131,35 @@ Let's stay connected! Feel free to connect with me on the following platforms:
   <summary><strong>Projects</strong></summary>
 <br>
 <div align="center">
-
-###### Stakeholder Projects:
-<div align="center">
-
-<!--PROJECT 1--->
 <p align="center">
 
 <!--PROJECT 1--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/TerraVolt's%20SQL-Based%20Enterprise%20Data%20Warehouse%20Design-A7C7E7.svg?&style=for-the-badge&logo=database&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
-<br>
-<em>Project type:</em> Data Warehouse, SQL Development, ETL Pipelines<br>
-<em>Skills used:</em> SQL, Data Modeling, Medallion Architecture
-
-<br><br>
+<small><em>Project type:</em> Data Warehouse, SQL Development, ETL Pipelines</small><br>
+<small><em>Skills used:</em> SQL, Data Modeling, Medallion Architecture</small>
 
 <!--PROJECT 2--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Advanced%20Sales%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=chart-bar&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
-<br>
-<em>Project type:</em> Sales Analysis, Dashboard, Business Insights<br>
-<em>Skills used:</em> Excel, SQL, Tableau
-
-<br><br>
+<small><em>Project type:</em> Sales Analysis, Dashboard, Business Insights</small><br>
+<small><em>Skills used:</em> Excel, SQL, Tableau</small>
 
 <!--PROJECT 3--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Coffee%20Shop%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=coffee&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
-<br>
-<em>Project type:</em> Exploratory Analysis, Data Visualization, Business Case<br>
-<em>Skills used:</em> Python, Pandas, Matplotlib
-
-<br><br>
+<small><em>Project type:</em> Exploratory Analysis, Data Visualization, Business Case</small><br>
+<small><em>Skills used:</em> Python, Pandas, Matplotlib</small>
 
 <!--PROJECT 4--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Tableau%20Sales%20Dashboard-A7C7E7.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
-<br>
-<em>Project type:</em> Dashboard, Data Reporting, Business Intelligence<br>
-<em>Skills used:</em> Tableau, SQL, Data Visualization
+<small><em>Project type:</em> Dashboard, Data Reporting, Business Intelligence</small><br>
+<small><em>Skills used:</em> Tableau, SQL, Data Visualization</small>
 
 </p>
 
