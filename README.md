@@ -6,7 +6,7 @@
 <!--  ✨ Header Typing Animation   ✨  -->
 <!-- ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous+Code&size=24&duration=4000&pause=1000&color=6AD1E3&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Tableau+%7C+Power+BI;Python+%7C+Git;Driven+by+Data+Inspired+by+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous+Code&size=24&duration=4000&pause=1000&color=6AD1E3&center=true&vCenter=true&width=550&lines=Data+Analyst;Excel+%7C+SQL+%7C+Tableau+%7C+Power+BI;Python+%7C+Git;Driven+by+Data+Inspired+by+Insights" alt="Typing SVG" />
 </p>
 
 <!-- ======================= -->
