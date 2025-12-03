@@ -130,21 +130,27 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <details>
   <summary><strong>Projects</strong></summary>
 <br>
+
+###### Stakeholder Projects:
 <div align="center">
+
+<div align="center">
+
+<p align="center">
 
 <!--PROJECT 1--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/TerraVolt's%20SQL-Based%20Enterprise%20Data%20Warehouse%20Design-A7C7E7.svg?&style=for-the-badge&logo=database&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+  <img src="https://img.shields.io/badge/TerraVolt's%20SQL-Based%20Enterprise%20Data%20Warehouse%20Design-A7C7E7.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
 </a>
 
 <!--PROJECT 2--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Advanced%20Sales%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=chart-bar&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+  <img src="https://img.shields.io/badge/Advanced%20Sales%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
 </a>
 
 <!--PROJECT 3--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Coffee%20Shop%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=coffee&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+  <img src="https://img.shields.io/badge/Coffee%20Shop%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=python&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
 </a>
 
 <!--PROJECT 4--->
@@ -154,13 +160,8 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 </p>
 
-delete
 
-
-delete
-
-
-###### Stakeholder Projects:
+###### Personal Projects:
 <div align="center">
 
 <!--PROJECT 1--->
