@@ -164,6 +164,11 @@ Let's stay connected! Feel free to connect with me on the following platforms:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F4C2C2&labelColor=F4C2C2" />
 </a>
 
+
+<a href="https://www.linkedin.com/in/makobemashoto/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
+</a>
+
 </details>
 
 <!-- ======================= -->
