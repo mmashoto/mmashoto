@@ -72,9 +72,9 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <div align="center">
 
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%2312100E.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-6E6E6E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%2312100E.svg?style=for-the-badge&logo=sql-server&logoColor=white)        
