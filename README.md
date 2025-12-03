@@ -131,11 +131,8 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <div align="center">
 
 
-<!--PROJECT 1-->> -->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Terra Volt-%2312100E.svg?&style=for-the-badge&logo=Terra Volt hello&logoColor=white&color=black" /></a>
-
-###### Personal Projects:
-<div align="center">
+<!--PROJECT 1--->
+  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
 
 
 </details>
