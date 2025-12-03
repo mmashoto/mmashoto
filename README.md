@@ -132,6 +132,8 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 ![Black box](./blackbox.svg)
 
+![box](https://img.shields.io/badge/YOUR%20TEXT-black?style=flat&labelColor=000000&color=000000&logoColor=white)
+
 ###### Personal Projects:
 <div align="center">
 
