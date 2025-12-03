@@ -160,36 +160,25 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 delete
 
-
-<p align="center">
-
-<!--PROJECT 1-->
+<!--PROJECT 1--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/TerraVolt's%20SQL-Based%20Enterprise%20Data%20Warehouse%20Design-A7C7E7.svg?&style=for-the-badge&logo=database&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
 
-&nbsp;&nbsp;
-
-<!--PROJECT 2-->
+<!--PROJECT 2--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Advanced%20Sales%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=chart-bar&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
 
-&nbsp;&nbsp;
-
-<!--PROJECT 3-->
+<!--PROJECT 3--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Coffee%20Shop%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=coffee&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
 
-&nbsp;&nbsp;
-
-<!--PROJECT 4-->
+<!--PROJECT 4--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/Tableau%20Sales%20Dashboard-A7C7E7.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
 </a>
-
-</p>
 
 delete
 
