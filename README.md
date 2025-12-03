@@ -158,12 +158,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mmashoto)](https://github.com/mmashoto/github-readme-profile)
 -->
 
-<!---Option 4-->
-![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
-
-
-
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 
 </details>
@@ -176,7 +170,12 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <br>
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact)
+![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
+
+
+
+![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
+
 
 </details>
 
