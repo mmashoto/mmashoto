@@ -130,9 +130,9 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Stakeholder Projects:
 <div align="center">
 
-![Black box](./blackbox.svg)
 
-![box](https://img.shields.io/badge/YOUR%20TEXT-black?style=flat&labelColor=000000&color=000000&logoColor=white)
+<!--PROJECT 1-->> -->
+  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Terra Volt-%2312100E.svg?&style=for-the-badge&logo=Terra Volt hello&logoColor=white&color=black" /></a>
 
 ###### Personal Projects:
 <div align="center">
