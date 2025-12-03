@@ -45,7 +45,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 
 <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Gmail-A7C7E7.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
 
 <!--LINKEDIN-->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=black" /></a>
