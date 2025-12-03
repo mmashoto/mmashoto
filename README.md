@@ -134,21 +134,28 @@ Let's stay connected! Feel free to connect with me on the following platforms:
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
 
 
-!--PROJECT 1--->
+<!--PROJECT 1--->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
 
-!--PROJECT 1--->
+<!--PROJECT 1--->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
 
 ###### Stakeholder Projects:
 <div align="center">
 
-!--PROJECT 1--->
+<!--PROJECT 1--->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
 
 
-!--PROJECT 1--->
+<!--PROJECT 1--->
   <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" /></a>
+
+
+<a href="https://www.linkedin.com/in/makobemashoto/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=A7C7E7&labelColor=A7C7E7" />
+</a>
+
+
 
 </details>
 
