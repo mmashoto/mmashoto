@@ -197,14 +197,15 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <br>
 <div align="center">
 
+###### Streak Stats:
+<div align="center">
+
+
 <a href="https://github.com/mmashoto/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
        alt="mmashoto's streak" 
        src="https://github-readme-streak-stats-eight.vercel.app/?user=mmashoto&hide_border=true&background=00000000&text=A7C7E7&dates=A7C7E7&fire=FFB6C1&currStreakLabel=A7C7E7&currStreakNum=FFB6C1&sideNums=A7C7E7&longestStreakLabel=A7C7E7&longestStreakNum=FFB6C1&totalStreakLabel=A7C7E7&totalStreakNum=FFB6C1&short_numbers=true"/>
 </a>
-
-###### Streak Stats:
-<div align="center">
 
 ###### Github Profile Stats:
 <div align="center">
