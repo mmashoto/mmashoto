@@ -197,11 +197,11 @@ The company’s data was scattered across multiple operational systems, includin
         </td>
         <td width="60%">
             <h2>Daily Grind Coffee Sales Analysis</h2>
-<h4 style="font-weight: normal;">
+<p>
 Founded in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique coffee shop known for its <strong>artisanal coffee blends</strong> and <strong>personalized customer experience</strong>. Like most coffee shops, Daily Grind sells products primarily in-store, with some online orders and special delivery options. It uses a variety of marketing approaches, including <strong>social media campaigns</strong> and <strong>loyalty programs</strong>. Its most popular items include <strong>specialty coffee blends</strong>, <strong>pastries</strong>, and <strong>seasonal beverages</strong>.
 
 The company has a core dataset consisting of <strong>daily sales transactions</strong>, <strong>product details</strong>, <strong>customer information</strong>, and <strong>payment methods</strong>. The data required cleaning and transformation, and through <strong>Python-based Exploratory Data Analysis</strong> and <strong>KPI tracking</strong>, we extracted actionable insights on <strong>purchase trends</strong>, <strong>popular products</strong>, <strong>peak sales periods</strong>, and <strong>payment preferences</strong>. These insights provide recommendations for <strong>inventory planning</strong>, <strong>staffing optimization</strong>, and <strong>targeted promotions</strong>, helping Daily Grind improve <strong>operational efficiency</strong>, maximize <strong>revenue</strong>, and enhance the <strong>customer experience</strong>.
-</h4>
+</p>
             <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.shields.io/badge/-Excel-A7C7E7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </a>
