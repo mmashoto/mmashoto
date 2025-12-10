@@ -192,7 +192,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!-- ======================= -->
 <details>
   <summary><strong>GitHub Analytics</strong></summary>
-<br>
+
 
 ###### Streak Stats:
 <div align="center">
