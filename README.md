@@ -197,20 +197,18 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <details>
   <summary><strong>GitHub Analytics</strong></summary>
 <br>
+
+###### Streak Stats:
 <div align="center">
-<!---Option 1
-![](https://github-readme-stats.vercel.app/api?username=mmashoto&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmashoto&theme=graywhite&hide_border=true)<br/>
--->
-<!--- Option 2
-<a href="https://github.com/mmashoto/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mmashoto" />
-</a>
---->
-<!---Option 3-->
-<!--  
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mmashoto)](https://github.com/mmashoto/github-readme-profile)
--->
+</div>
+
+###### Github Profile Stats:
+<div align="center">
+</div>
+
+###### GitHub Contribution Graph:
+<div align="center">
+</div>
 
 </details>
 
@@ -223,10 +221,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!--     Top Languages Card      -->
 <!-- =======================  -->
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&langs_count=8&bg_color=A7C7E7&title_color=1D3557&text_color=1D3557" alt="Top Languages" />
-</p>
+
 
 </details>
 
