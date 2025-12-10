@@ -42,17 +42,26 @@
 Let's stay connected! Feel free to connect with me on the following platforms: 
 
 <div align="center">
-<!-- GMAIL -->
-<a href="mailto:mashoto.makobe99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-A7C7E7.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=A7C7E7" />
-</a>
-<!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/LinkedIn-A7C7E7.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=A7C7E7" /></a>
-<!--PORTFOLIO -->
- <a href="https://www.linkedin.com/in/makobemashoto/"><img src="https://img.shields.io/badge/Portfolio-A7C7E7.svg?&style=for-the-badge&logo=todoist&logoColor=white&color=A7C7E7" /></a>
-<!-- MEDIUM -->
-<a href="https://medium.com/@mmashoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-A7C7E7.svg?&style=for-the-badge&logo=medium&logoColor=A7C7E7" /></a> 
-
+  <!-- Gmail -->
+  <a href="mailto:mashoto.makobe99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-A7C7E7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/makobemashoto/">
+    <img src="https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Portfolio (use GitHub icon for personal projects) -->
+  <a href="https://github.com/makobemashoto">
+    <img src="https://img.shields.io/badge/Portfolio-A7C7E7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@mmashoto" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-A7C7E7?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
 
 Let's stay connected! Feel free to connect with me on the following platforms: 
