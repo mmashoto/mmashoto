@@ -156,11 +156,11 @@ Let's stay connected! Feel free to connect with me on the following platforms:
     <tr>
         <td width="60%">
             <h2>TerraVolt E-Commerce Data Warehouse & BI Analysis</h2>
-<h4>
-Founded in 2008, TerraVolt is a global e-commerce company specializing in bicycles, components, and cycling apparel. Like most e-commerce companies, TerraVolt sells products through its online store and mobile app, leveraging multiple marketing channels such as email campaigns, social media, and affiliate programs. Its top-selling items include high-end bicycles, cycling apparel, and replacement components.
+<p>
+Founded in <strong>2008</strong>, <strong>TerraVolt</strong> is a <strong>global e-commerce company</strong> specializing in <strong>bicycles</strong>, <strong>components</strong>, and <strong>cycling apparel</strong>. Like most e-commerce companies, TerraVolt sells products through its <strong>online store</strong> and <strong>mobile app</strong>, leveraging multiple marketing channels such as <strong>email campaigns</strong>, <strong>social media</strong>, and <strong>affiliate programs</strong>. Its top-selling items include <strong>high-end bicycles</strong>, <strong>cycling apparel</strong>, and <strong>replacement components</strong>.
 
-The company’s data was scattered across multiple operational systems, including orders, order statuses, customer information, product catalogs, and geographic data. To address this, we designed and implemented a centralized SQL Data Warehouse that consolidates disparate datasets into a single source of truth. The warehouse supports ETL pipelines, ensures data integrity, and serves as the foundation for a robust Business Intelligence layer. Through Exploratory Data Analysis, KPI monitoring, and interactive dashboards, we provided actionable insights on customer behavior, product performance, and sales trends, enabling data-driven decision-making and strategic planning across the enterprise.
-</h4>
+The company’s data was scattered across multiple operational systems, including <strong>orders</strong>, <strong>order statuses</strong>, <strong>customer information</strong>, <strong>product catalogs</strong>, and <strong>geographic data</strong>. To address this, we designed and implemented a <strong>centralized SQL Data Warehouse</strong> that consolidates disparate datasets into a <strong>single source of truth</strong>. The warehouse supports <strong>ETL pipelines</strong>, ensures <strong>data integrity</strong>, and serves as the foundation for a robust <strong>Business Intelligence layer</strong>. Through <strong>Exploratory Data Analysis</strong>, <strong>KPI monitoring</strong>, and <strong>interactive dashboards</strong>, we provided actionable insights on <strong>customer behavior</strong>, <strong>product performance</strong>, and <strong>sales trends</strong>, enabling <strong>data-driven decision-making</strong> and <strong>strategic planning</strong> across the enterprise.
+</p>
           <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Python-A7C7E7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
@@ -194,7 +194,13 @@ The company’s data was scattered across multiple operational systems, includin
 </table>
 <table bordercolor="#66b2b2">
     <tr>
-        <td width="20%"><a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes" target="_blank"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" /></a>
+        <td width="20%">
+          
+<!-- First image -->
+<img width="100%" src="assets/dailygrind_rm.png" alt="TerraVolt Project Screenshot" />
+
+<!-- Second image -->
+<img width="100%" src="assets/dailygrind.png" alt="TerraVolt Screenshot" />
         </td>
         <td width="60%">
             <h2>Daily Grind Coffee Sales Analysis</h2>
