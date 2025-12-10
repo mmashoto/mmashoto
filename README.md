@@ -184,9 +184,11 @@ The company’s data was scattered across multiple operational systems, includin
 </a>      
         </td>
         <td width="20%">
-            <a
-              <img width ="100%" src="assets/terravolt_rm.png" alt="TerraVolt Project Screenshot" />
-            </a>
+<!-- First image -->
+<img width="100%" src="assets/terravolt_rm.png" alt="TerraVolt Project Screenshot" />
+
+<!-- Second image -->
+<img width="100%" src="assets/terravolt_dashboard.png" alt="TerraVolt Dashboard Screenshot" />
         </td>
     </tr>
 </table>
