@@ -203,6 +203,13 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Github Profile Stats:
 <div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="mmashoto's Github Stats" 
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mmashoto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=00000000&title_color=A7C7E7&text_color=A7C7E7&icon_color=FFB6C1" 
+       height="192px"/>
+</a>
+
+
 ###### GitHub Contribution Graph:
 <div align="center">
 
