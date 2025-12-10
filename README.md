@@ -237,7 +237,13 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!--     Top Languages Card      -->
 <!-- =======================  -->
 
+<div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="mmashoto's Top Languages" 
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=A7C7E7&text_color=A7C7E7&icon_color=A7C7E7" 
+       height="192px"/>
+</a>
 
 </details>
 
