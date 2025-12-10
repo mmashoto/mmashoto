@@ -147,27 +147,80 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <div align="center">
 
 <!--PROJECT 1--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/TerraVolt's%20SQL-Based%20Enterprise%20Data%20Warehouse%20Design-A7C7E7.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+
+
+
 </a>
+<h1 align="center">Work Demos</h1>
+<table bordercolor="#66b2b2">
+    <tr>
+        <td width="60%">
+            <h2>TerraVolt E-Commerce Data Warehouse & BI Analysis</h2>
+<h4>
+Founded in 2008, TerraVolt is a global e-commerce company specializing in bicycles, components, and cycling apparel. Like most e-commerce companies, TerraVolt sells products through its online store and mobile app, leveraging multiple marketing channels such as email campaigns, social media, and affiliate programs. Its top-selling items include high-end bicycles, cycling apparel, and replacement components.
 
-<!--PROJECT 2--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Advanced%20Sales%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+The company’s data was scattered across multiple operational systems, including orders, order statuses, customer information, product catalogs, and geographic data. To address this, we designed and implemented a centralized SQL Data Warehouse that consolidates disparate datasets into a single source of truth. The warehouse supports ETL pipelines, ensures data integrity, and serves as the foundation for a robust Business Intelligence layer. Through Exploratory Data Analysis, KPI monitoring, and interactive dashboards, we provided actionable insights on customer behavior, product performance, and sales trends, enabling data-driven decision-making and strategic planning across the enterprise.
+</h4>
+          <a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Python-A7C7E7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
-
-<!--PROJECT 3--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Coffee%20Shop%20Analysis-A7C7E7.svg?&style=for-the-badge&logo=python&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://img.shields.io/badge/-SQL%20Server-A7C7E7?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Server" />
 </a>
-
-<!--PROJECT 4--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Tableau%20Sales%20Dashboard-A7C7E7.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
+<a href="https://www.notion.so/" target="_blank">
+  <img src="https://img.shields.io/badge/-Notion-A7C7E7?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-VS%20Code-A7C7E7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-A7C7E7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Git-A7C7E7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://github.com/your-username/project-repo/blob/main/README.md" target="_blank">
+  <img src="https://img.shields.io/badge/-Go%20to%20Project-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project" />
+</a>      
+        </td>
+        <td width="20%">
+            <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
+            <div><img width="160px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" /></div>
+            <img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
+            </a>
+        </td>
+    </tr>
+</table>
+<table bordercolor="#66b2b2">
+    <tr>
+        <td width="20%"><a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes" target="_blank"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" /></a>
+        </td>
+        <td width="60%">
+            <h2>Daily Grind Coffee Sales Analysis</h2>
+<h4>
+Daily Grind, based in Cape Town, South Africa, is a boutique coffee shop celebrated for its handcrafted coffee blends and personalized customer service. The shop serves walk-in customers, online orders, and occasional deliveries, while promoting its offerings through social media and a customer loyalty program. Signature products include specialty coffees, pastries, and seasonal beverages.
 
-</p>
-
+The dataset includes daily sales transactions, customer information, product details, and payment records. After cleaning and structuring the data, Tableau-based Exploratory Data Analysis and interactive dashboards revealed key insights into peak purchasing times, top-selling products, and customer payment behavior. These findings informed strategies for inventory management, staffing, and targeted promotions, ultimately supporting improved efficiency, increased revenue, and a more satisfying customer experience.
+</h4>
+            <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://img.shields.io/badge/-Excel-A7C7E7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Tableau-A7C7E7?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Git-A7C7E7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-VS%20Code-A7C7E7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</a>
+<a href="https://github.com/your-username/project-repo/blob/main/README.md" target="_blank">
+  <img src="https://img.shields.io/badge/-Go%20to%20Project-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project" />
+</a>
+            <a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes"><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project"></a>
+        </td>
+    </tr>
+</table>
 
 ###### Personal Projects:
 <div align="center">
