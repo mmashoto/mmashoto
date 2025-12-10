@@ -220,6 +220,12 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### GitHub Contribution Graph:
 <div align="center">
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="mmashoto's Activity Graph" 
+       src="https://github-readme-activity-graph.vercel.app/graph/?username=mmashoto&bg_color=00000000&color=A7C7E7&line=B0B0B0&point=A7C7E7&area=true&hide_border=true&scale=2&hide_title=false&hide_months=false&label_color=A7C7E7" 
+       width="700px"/>
+</a>
+
 </details>
 
 
