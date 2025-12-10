@@ -140,6 +140,8 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <details>
   <summary><strong>Projects</strong></summary>
 <br>
+<div align="center">
+
 
 ###### Stakeholder Projects:
 <div align="center">
@@ -192,7 +194,8 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!-- ======================= -->
 <details>
   <summary><strong>GitHub Analytics</strong></summary>
-
+<br>
+<div align="center">
 
 ###### Streak Stats:
 <div align="center">
