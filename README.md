@@ -114,7 +114,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ![GitHubDesktop](https://img.shields.io/badge/GitHub%20Desktop-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6E6E6E.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-6E6E6E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-6E6E6E.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-6E6E6E.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-6E6E6E.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-6E6E6E.svg?style=for-the-badge&logo=adobe&logoColor=white)
