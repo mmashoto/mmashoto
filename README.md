@@ -184,9 +184,7 @@ The company’s data was scattered across multiple operational systems, includin
 </a>      
         </td>
         <td width="20%">
-            <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
-            <div><img width="160px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" /></div>
-            <img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
+            <a
               <img width ="100%" src="assets/terravolt_rm.png" alt="TerraVolt Project Screenshot" />
             </a>
         </td>
