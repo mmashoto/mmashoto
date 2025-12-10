@@ -214,7 +214,9 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 
 
-</details>
+<details>
+  <summary><strong>Top Languages</strong></summary>
+<br>
 
 <!-- ======================= -->
 <!--     Top Languages Card      -->
