@@ -144,10 +144,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Stakeholder Projects:
 <div align="center">
 
-<div align="center">
-
-<p align="center">
-
 <!--PROJECT 1--->
 <a href="https://www.linkedin.com/in/makobemashoto/">
   <img src="https://img.shields.io/badge/TerraVolt's%20SQL-Based%20Enterprise%20Data%20Warehouse%20Design-A7C7E7.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=A7C7E7&labelColor=A7C7E7&maxWidth=250" />
@@ -200,15 +196,12 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 ###### Streak Stats:
 <div align="center">
-</div>
 
 ###### Github Profile Stats:
 <div align="center">
-</div>
 
 ###### GitHub Contribution Graph:
 <div align="center">
-</div>
 
 </details>
 
