@@ -212,6 +212,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mmashoto)](https://github.com/mmashoto/github-readme-profile)
 -->
 
+</details>
 
 
 <details>
