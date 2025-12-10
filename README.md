@@ -240,15 +240,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <!-- ======================= -->
 <!--     Profile Views Badge      -->
 <!-- ======================= -->
-  
-![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=A7C7E7&labelColor=A7C7E7&logoColor=ffffff)
-
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=A7C7E7&labelColor=A7C7E7&logoColor=ffffff)
-  
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=A7C7E7&labelColor=A7C7E7&logoColor=ffffff" alt="Profile Views" />
