@@ -205,9 +205,9 @@ The company’s data was scattered across multiple operational systems, includin
         <td width="60%">
             <h2>Daily Grind Coffee Sales Analysis</h2>
 <p>
-Founded in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique coffee shop known for its <strong>artisanal coffee blends</strong> and <strong>personalized customer experience</strong>. Like most coffee shops, Daily Grind sells products primarily in-store, with some online orders and special delivery options. It uses a variety of marketing approaches, including <strong>social media campaigns</strong> and <strong>loyalty programs</strong>. Its most popular items include <strong>specialty coffee blends</strong>, <strong>pastries</strong>, and <strong>seasonal beverages</strong>.
+Located in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique coffee shop renowned for its <strong>artisanal coffee blends</strong> and <strong>personalized customer experience</strong>. Its top offerings include <strong>specialty coffee blends</strong>, <strong>pastries</strong>, and <strong>seasonal beverages</strong>. 
 
-The company has a core dataset consisting of <strong>daily sales transactions</strong>, <strong>product details</strong>, <strong>customer information</strong>, and <strong>payment methods</strong>. The data required cleaning and transformation, and through <strong>Python-based Exploratory Data Analysis</strong> and <strong>KPI tracking</strong>, we extracted actionable insights on <strong>purchase trends</strong>, <strong>popular products</strong>, <strong>peak sales periods</strong>, and <strong>payment preferences</strong>. These insights provide recommendations for <strong>inventory planning</strong>, <strong>staffing optimization</strong>, and <strong>targeted promotions</strong>, helping Daily Grind improve <strong>operational efficiency</strong>, maximize <strong>revenue</strong>, and enhance the <strong>customer experience</strong>.
+The company faced challenges in translating its <strong>daily sales transactions</strong> and <strong>product-level data</strong> into actionable insights to optimize <strong>inventory</strong>, <strong>staffing</strong>, and <strong>promotions</strong>. Using <strong>Tableau</strong>, we conducted <strong>time series analyses</strong> at <strong>hourly, daily, weekly, and monthly granularities</strong> and performed <strong>product performance evaluations</strong> with <strong>bar charts, line charts, and KPI dashboards</strong>. These <strong>interactive visualizations</strong> revealed <strong>peak sales periods</strong>, <strong>seasonal trends</strong>, and <strong>top-selling items</strong>, enabling <strong>data-driven decisions</strong> that improved <strong>operational efficiency</strong>, <strong>revenue</strong>, and the <strong>customer experience</strong>.
 </p>
             <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.shields.io/badge/-Excel-A7C7E7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -224,7 +224,6 @@ The company has a core dataset consisting of <strong>daily sales transactions</s
 <a href="https://github.com/your-username/project-repo/blob/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/-Go%20to%20Project-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project" />
 </a>
-            <a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes"><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project"></a>
         </td>
     </tr>
 </table>
