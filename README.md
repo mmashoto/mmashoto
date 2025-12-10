@@ -218,25 +218,11 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 <!-- ======================= -->
 <!--     Top Languages Card      -->
-<!-- ======================= -->
-<details>
-  <summary><strong>Top Languages</strong></summary>
-<br>
-<div align="center">
-  
-![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
-
-
-
-![Most Used Languages](https://raw.githubusercontent.com/mmashoto/github-stats-transparent/output/generated/languages.svg)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=donut-vertical)](https://github.com/mmashoto/github-readme-stats)
-
-
+<!-- =======================  -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&theme=blue-green&langs_count=8" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmashoto&layout=compact&langs_count=8&bg_color=A7C7E7&title_color=1D3557&text_color=1D3557" alt="Top Languages" />
 </p>
 
 </details>
