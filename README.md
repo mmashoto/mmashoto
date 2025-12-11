@@ -215,7 +215,6 @@ The company faced challenges in translating its <strong>daily sales transactions
         <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
       </a>
     </td>
-
     <!-- Column 2 -->
     <td align="center">
       <h2>Project Two</h2>
@@ -225,7 +224,6 @@ The company faced challenges in translating its <strong>daily sales transactions
         <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
       </a>
     </td>
-
     <!-- Column 3 -->
     <td align="center">
       <h2>Project Three</h2>
