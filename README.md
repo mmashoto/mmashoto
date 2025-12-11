@@ -203,22 +203,42 @@ The company faced challenges in translating its <strong>daily sales transactions
 </table>
 
 ###### Personal Projects:
-<div align="center">
 
-<!--PROJECT 1--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
-</a>
+<table>
+  <tr>
 
-<!--PROJECT 2--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
-</a>
+    <!-- Column 1 -->
+    <td align="center">
+      <h2>Project One</h2>
+      <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/assets/project1.png" width="250" />
+      <br><br>
+      <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
+        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+      </a>
+    </td>
 
-<!--PROJECT 3--->
-<a href="https://www.linkedin.com/in/makobemashoto/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=F7B5CD&labelColor=F7B5CD" />
-</a>
+    <!-- Column 2 -->
+    <td align="center">
+      <h2>Project Two</h2>
+      <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/assets/project2.png" width="250" />
+      <br><br>
+      <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
+        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+      </a>
+    </td>
+
+    <!-- Column 3 -->
+    <td align="center">
+      <h2>Project Three</h2>
+      <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/assets/project3.png" width="250" />
+      <br><br>
+      <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
+        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+      </a>
+    </td>
+
+  </tr>
+</table>
 
 </details>
 
