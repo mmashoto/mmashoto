@@ -196,6 +196,7 @@ The company faced challenges in translating its <strong>daily sales transactions
  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
 ![Go to Project](https://img.shields.io/badge/Go%20to%20Project-F7B5CD.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
   </a>
+  </div>
         </td>
     </tr>
 </table>
