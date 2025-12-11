@@ -180,10 +180,10 @@ The company’s data was scattered across multiple operational systems, includin
         </td>
         <td width="20%">
 <!-- First image -->
-<img width="100%" src="assets/terravolt_rm.png" alt="TerraVolt Project Screenshot" />
+<img width="100%" src="assets/terravolt_logo.png" alt="TerraVolt Project Logo" />
 
 <!-- Second image -->
-<img width="100%" src="assets/terravolt_dashboard.png" alt="TerraVolt Dashboard Screenshot" />
+<img width="100%" src="assets/terravolt_rm.png" alt="Present, Active Father" />
         </td>
     </tr>
 </table>
