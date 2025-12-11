@@ -52,7 +52,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
     <img src="https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <!-- Portfolio (use GitHub icon for personal projects) -->
+  <!-- Portfolio (GitHub icon for personal projects) -->
   <a href="https://github.com/makobemashoto">
     <img src="https://img.shields.io/badge/Portfolio-A7C7E7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
