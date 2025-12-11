@@ -51,6 +51,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <a href="https://github.com/makobemashoto">
     ![Portfolio](https://img.shields.io/badge/Portfolio-A7C7E7.svg?style=for-the-badge&logo=github&logoColor=white)
   </a>
+  
 <a href="https://medium.com/@mmashoto" target="_blank">
     ![Medium](https://img.shields.io/badge/Medium-A7C7E7.svg?style=for-the-badge&logo=medium&logoColor=white)
   </a>
