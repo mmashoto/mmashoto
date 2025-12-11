@@ -189,6 +189,7 @@ The company faced challenges in translating its <strong>daily sales transactions
 
 
   <div align="right">
+    
 ![Excel](https://img.shields.io/badge/Excel-a7c7e7.svg?style=for-the-badge&logo=excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-a7c7e7.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-a7c7e7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
