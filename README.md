@@ -154,7 +154,7 @@ The company’s data was scattered across multiple operational systems, includin
 ![Git](https://img.shields.io/badge/Git-a7c7e7.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-a7c7e7.svg?style=for-the-badge&logo=github&logoColor=white)
  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
-![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Go to Project](https://img.shields.io/badge/Go%20to%20Project-F7B5CD.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
   </a>
 
 </div>      
@@ -185,21 +185,17 @@ Located in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique c
 
 The company faced challenges in translating its <strong>daily sales transactions</strong> and <strong>product-level data</strong> collected over the past <strong>18 months</strong> into actionable insights to optimize <strong>inventory</strong>, <strong>staffing</strong>, and <strong>promotions</strong>. Using <strong>Tableau</strong>, we conducted <strong>time series analyses</strong> at <strong>hourly, daily, weekly, and monthly granularities</strong> and performed <strong>product performance evaluations</strong> with <strong>bar charts, line charts, and KPI dashboards</strong>. These <strong>interactive visualizations</strong> revealed <strong>peak sales periods</strong>, <strong>seasonal trends</strong>, and <strong>top-selling items</strong>, enabling <strong>data-driven decisions</strong> that improved <strong>operational efficiency</strong>, <strong>revenue</strong>, and the <strong>customer experience</strong>.
 </p>
-            <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.shields.io/badge/-Excel-A7C7E7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</a>
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Tableau-A7C7E7?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Git-A7C7E7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-VS%20Code-A7C7E7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</a>
-<a href="https://github.com/your-username/project-repo/blob/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/-Go%20to%20Project-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project" />
-</a>
+
+
+
+  <div align="right">
+![Excel](https://img.shields.io/badge/Excel-a7c7e7.svg?style=for-the-badge&logo=excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-a7c7e7.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-a7c7e7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-a7c7e7.svg?style=for-the-badge&logo=git&logoColor=white)
+ <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+![Go to Project](https://img.shields.io/badge/Go%20to%20Project-F7B5CD.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+  </a>
         </td>
     </tr>
 </table>
