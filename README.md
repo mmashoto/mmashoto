@@ -208,8 +208,8 @@ The company faced challenges in translating its <strong>daily sales transactions
   <tr>
     <!-- Column 1 -->
     <td align="center">
-      <h2>Project One</h2>
-      <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/assets/project1.png" width="250" />
+      <h2> CompassCart Tableau Sales Dashboard</h2>
+<img width="100%" src="assets/compasscart_rm.png" alt="TerraVolt Screenshot" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
         <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
@@ -217,8 +217,8 @@ The company faced challenges in translating its <strong>daily sales transactions
     </td>
     <!-- Column 2 -->
     <td align="center">
-      <h2>Project Two</h2>
-      <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/assets/project2.png" width="250" />
+      <h2>Python-Based Data Quality Assessment Framework</h2>
+      <img width="100%" src="assets/python_rm.png" alt="TerraVolt Screenshot" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
         <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
@@ -227,7 +227,7 @@ The company faced challenges in translating its <strong>daily sales transactions
     <!-- Column 3 -->
     <td align="center">
       <h2>Project Three</h2>
-      <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/assets/project3.png" width="250" />
+      <img width="100%" src="assets/dailygrind.png" alt="TerraVolt Screenshot" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
         <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
