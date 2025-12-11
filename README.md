@@ -226,7 +226,7 @@ The company faced challenges in translating its <strong>daily sales transactions
     </td>
     <!-- Column 3 -->
     <td align="center">
-      <h2>Project Three</h2>
+      <h2>Project Three -->> Coming Soon</h2>
       <img width="100%" src="assets/coming_soon_rm.png" alt="Project 3" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
