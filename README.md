@@ -206,7 +206,6 @@ The company faced challenges in translating its <strong>daily sales transactions
 
 <table>
   <tr>
-
     <!-- Column 1 -->
     <td align="center">
       <h2>Project One</h2>
@@ -236,7 +235,6 @@ The company faced challenges in translating its <strong>daily sales transactions
         <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
       </a>
     </td>
-
   </tr>
 </table>
 
