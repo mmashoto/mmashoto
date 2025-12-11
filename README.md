@@ -158,17 +158,12 @@ The company’s data was scattered across multiple operational systems, includin
 </p>
   <div align="left">
 
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-f6c823.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-  ![Python](https://img.shields.io/badge/Python-f6c823.svg?style=for-the-badge&logo=python&logoColor=white)
-
-  ![VS Code](https://img.shields.io/badge/VS%20Code-f6c823.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-  ![Git](https://img.shields.io/badge/Git-f6c823.svg?style=for-the-badge&logo=git&logoColor=white)
-
-  ![GitHub](https://img.shields.io/badge/GitHub-f6c823.svg?style=for-the-badge&logo=github&logoColor=white)
-
-  ![Go to Project](https://img.shields.io/badge/Go%20to%20Project-a14128.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-a7c7e7.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-a7c7e7.svg?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-a7c7e7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-a7c7e7.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-a7c7e7.svg?style=for-the-badge&logo=github&logoColor=white)
+![Go to Project](https://img.shields.io/badge/Go%20to%20Project-ffb6c1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 </div>      
         </td>
