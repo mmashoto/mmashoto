@@ -40,6 +40,7 @@
 </h3>
 
 Let's stay connected! Feel free to connect with me on the following platforms: 
+
 <div align="center">
 
   <a href="mailto:mashoto.makobe99@gmail.com">
