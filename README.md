@@ -163,7 +163,9 @@ The company’s data was scattered across multiple operational systems, includin
 ![VS Code](https://img.shields.io/badge/VS%20Code-a7c7e7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-a7c7e7.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-a7c7e7.svg?style=for-the-badge&logo=github&logoColor=white)
-![Go to Project](https://img.shields.io/badge/Go%20to%20Project-ffb6c1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+ <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+  </a>
 
 </div>      
         </td>
