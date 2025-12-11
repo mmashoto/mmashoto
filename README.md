@@ -156,27 +156,21 @@ Founded in <strong>2008</strong>, <strong>TerraVolt</strong> is a <strong>global
 
 The company’s data was scattered across multiple operational systems, including <strong>orders</strong>, <strong>order statuses</strong>, <strong>customer information</strong>, <strong>product catalogs</strong>, and <strong>geographic data</strong>. To address this, we designed and implemented a <strong>centralized SQL Data Warehouse</strong> that consolidates disparate datasets into a <strong>single source of truth</strong>. The warehouse supports <strong>ETL pipelines</strong>, ensures <strong>data integrity</strong>, and serves as the foundation for a robust <strong>Business Intelligence layer</strong>. Through <strong>Exploratory Data Analysis</strong>, <strong>KPI monitoring</strong>, and <strong>interactive dashboards</strong>, we provided actionable insights on <strong>customer behavior</strong>, <strong>product performance</strong>, and <strong>sales trends</strong>, enabling <strong>data-driven decision-making</strong> and <strong>strategic planning</strong> across the enterprise.
 </p>
-          <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Python-A7C7E7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://img.shields.io/badge/-SQL%20Server-A7C7E7?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Server" />
-</a>
-<a href="https://www.notion.so/" target="_blank">
-  <img src="https://img.shields.io/badge/-Notion-A7C7E7?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-VS%20Code-A7C7E7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-A7C7E7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Git-A7C7E7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://github.com/your-username/project-repo/blob/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/-Go%20to%20Project-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project" />
-</a>      
+  <div align="left">
+
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-f6c823.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+  ![Python](https://img.shields.io/badge/Python-f6c823.svg?style=for-the-badge&logo=python&logoColor=white)
+
+  ![VS Code](https://img.shields.io/badge/VS%20Code-f6c823.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/Git-f6c823.svg?style=for-the-badge&logo=git&logoColor=white)
+
+  ![GitHub](https://img.shields.io/badge/GitHub-f6c823.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  ![Go to Project](https://img.shields.io/badge/Go%20to%20Project-a14128.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+
+</div>      
         </td>
         <td width="20%">
 <!-- First image -->
