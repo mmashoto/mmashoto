@@ -146,12 +146,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Stakeholder Projects:
 <div align="center">
 
-<!--PROJECT 1--->
-
-
-
 </a>
-<h1 align="center">Work Demos</h1>
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
