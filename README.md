@@ -71,7 +71,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 
 ![CSS](https://img.shields.io/badge/CSS-6E6E6E.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-6E6E6E.svg?style=for-the-badge&logo=HTML&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6E6E6E.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6E6E6E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6E6E6E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-6E6E6E.svg?style=for-the-badge&logo=r&logoColor=white)  
@@ -161,7 +160,7 @@ The company’s data was scattered across multiple operational systems, includin
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
+  <img src="https://img.shields.io/badge/Technology-A7C7E7?style=for-the-badge&logoColor=white" alt="Technology Badge">
 </p>
 
 `SQL Server ` • `Python` • `DrawIO` • `VS Code` • `Git` • `Github `
@@ -218,7 +217,7 @@ The company faced challenges in translating its <strong>daily sales transactions
  
 <p align="center">
   <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
-    <img src="https://img.shields.io/badge/Go%20to%20Project-E6E6E6.svg?style=for-the-badge&logo=read-the-docs&logoColor=FFFFFF" alt="Go to Project">
+    <img src="https://img.shields.io/badge/Go%20to%20Project-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=FFFFFF" alt="Go to Project">
   </a>
 </p>
   
@@ -237,7 +236,7 @@ The company faced challenges in translating its <strong>daily sales transactions
 <img width="100%" src="assets/compasscart_rm.png" alt="Shopping Therapy" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
-        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
       </a>
     </td>
     <!-- Column 2 -->
@@ -246,7 +245,7 @@ The company faced challenges in translating its <strong>daily sales transactions
       <img width="100%" src="assets/python_rm.png" alt="A guy thinking bout code" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
-        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
       </a>
     </td>
     <!-- Column 3 -->
@@ -255,7 +254,7 @@ The company faced challenges in translating its <strong>daily sales transactions
       <img width="100%" src="assets/coming_soon_rm.png" alt="Project 3" />
       <br><br>
       <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
-        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-FFB6C1.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
       </a>
     </td>
   </tr>
