@@ -25,9 +25,9 @@
 </p>
 
 <p align="left">
-  🌱 <b>Currently learning:</b> Advanced analytics, Power BI, and Python for automation <br>
-  💡 <b>Interests:</b> Business analytics, data storytelling, and process improvement <br>
-  ✨ <b>Goal:</b> To grow as a data professional who combines analytical precision, creativity, and empathy to make data meaningful and impactful  
+🌱 **Currently learning:** Statistical analysis, Python for automation, and advanced data visualization
+💡 **Interests:** Data storytelling, process improvement, business analytics, translating insights into action, and creating visually intuitive reports
+✨ **Goal:** To become a data professional who combines analytical precision, operational insight, and creativity with empathy, delivering insights that truly make an impact.  
 </p>
  
 <!-- ======================= -->
