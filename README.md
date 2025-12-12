@@ -300,7 +300,7 @@ The most effective way to demonstrate skills is through practical work and shari
 ###### Project Management :
 <div align="left">
 
-- [Atlassian Project Management Professional Certificate](#) (May 2025)(LinkedIn Learning - Atlassian)
+- [Atlassian Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/f4394e9110eed005a6ce4ebbea00406799fbdc320a0013d3c659fe0664fc360f?trk=share_certificate) (May 2025)(LinkedIn Learning - Atlassian)
 - [Career Essentials in Project Management ](https://www.linkedin.com/learning/certificates/a00b482e71456bb40a51daadfa109637e65558f760d27eb9f0b0b0ff14ae825c?trk=share_certificate) (May 2025)(LinkedIn Learning - Microsoft)
 
 </details>
