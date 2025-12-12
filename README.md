@@ -295,13 +295,13 @@ The most effective way to demonstrate skills is through practical work and shari
 ###### SQL :
 <div align="left">
   
-- [SQL Certificate](#) (Mar 2023)  
+- [SQL Essential Training](https://www.linkedin.com/learning/certificates/a9cd66f115dd30f247c93c63c5a6399a8e35f40a140c6a76a32c898971ee4d0f?trk=share_certificate) (May 2025)(LinkedIn Learning)
 
 ###### Project Management :
 <div align="left">
 
-- [Project Management Certificate 1](#) (Nov 2022)  
-- [Project Management Certificate 2](#) (Dec 2022)
+- [Atlassian Project Management Professional Certificate](#) (May 2025)(LinkedIn Learning - Atlassian)
+- [Career Essentials in Project Management ](#) (May 2025)(LinkedIn Learning - Microsoft)
 
 </details>
 
