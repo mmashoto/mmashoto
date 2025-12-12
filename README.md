@@ -194,7 +194,9 @@ Located in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique c
 The company faced challenges in translating its <strong>daily sales transactions</strong> and <strong>product-level data</strong> collected over the past <strong>18 months</strong> into actionable insights to optimize <strong>inventory</strong>, <strong>staffing</strong>, and <strong>promotions</strong>. Using <strong>Tableau</strong>, we conducted <strong>time series analyses</strong> at <strong>hourly, daily, weekly, and monthly granularities</strong> and performed <strong>product performance evaluations</strong> with <strong>bar charts, line charts, and KPI dashboards</strong>. These <strong>interactive visualizations</strong> revealed <strong>peak sales periods</strong>, <strong>seasonal trends</strong>, and <strong>top-selling items</strong>, enabling <strong>data-driven decisions</strong> that improved <strong>operational efficiency</strong>, <strong>revenue</strong>, and the <strong>customer experience</strong>.
 </p>
 
-
+p align="center">
+  <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
+</p>
 
   <div align="right">
     
