@@ -151,7 +151,9 @@ Founded in <strong>2008</strong>, <strong>TerraVolt</strong> is a <strong>global
 
 The company’s data was scattered across multiple operational systems, including <strong>orders</strong>, <strong>order statuses</strong>, <strong>customer information</strong>, <strong>product catalogs</strong>, and <strong>geographic data</strong>. To address this, we designed and implemented a <strong>centralized SQL Data Warehouse</strong> that consolidates disparate datasets into a <strong>single source of truth</strong>. The warehouse supports <strong>ETL pipelines</strong>, ensures <strong>data integrity</strong>, and serves as the foundation for a robust <strong>Business Intelligence layer</strong>. Through <strong>Exploratory Data Analysis</strong>, <strong>KPI monitoring</strong>, and <strong>interactive dashboards</strong>, we provided actionable insights on <strong>customer behavior</strong>, <strong>product performance</strong>, and <strong>sales trends</strong>, enabling <strong>data-driven decision-making</strong> and <strong>strategic planning</strong> across the enterprise.
 </p>
+###### Skills :
   <div align="left">
+  
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-a7c7e7.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-a7c7e7.svg?style=for-the-badge&logo=python&logoColor=white)
