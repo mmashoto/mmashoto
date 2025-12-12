@@ -23,7 +23,9 @@ Alongside this technical foundation, I <strong>blend creativity with analytics</
 
 This creative perspective intersects naturally with my analytical mindset, shaping how I design, communicate insights, and simplify complexity. Combined with strong <strong>attention to detail</strong>, this fusion of engineering logic and creative intuition allows me to create dashboards and reports that are precise, intuitive, and visually engaging.
 
-I enjoy uncovering trends, bringing clarity to complex information, and delivering insights that feel practical, human, and easy for stakeholders to act on.
+I enjoy uncovering trends and turning complex data into insights that are practical, actionable, and easy to interpret. I’m always exploring <strong>new tools and techniques</strong>, expanding my skills, and tackling challenging problems.
+
+This repository is where I <strong>showcase projects</strong>, share my work, and <strong>track my growth</strong> in Data Analytics and Data Science. 
 </p>
 
 <p align="left">  
