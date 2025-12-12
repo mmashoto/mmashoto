@@ -157,17 +157,16 @@ The company’s data was scattered across multiple operational systems, includin
   <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
-`DDL (Data Definition Language)`. `DML (Data Manipulation Language)`. `DQL (Data Query Language)`. `Joins & Set Operations`. `Aggregations & Analytics`. `Data Transformation & Cleaning`. `Performance & Optimization`
+`DDL (Data Definition Language)` • `DML (Data Manipulation Language)` • `DQL (Data Query Language)` • `Joins & Set Operations` • `Aggregations & Analytics` • `Data Transformation & Cleaning` • `Performance & Optimization`
 
 <p align="center">
 
   <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
-`SQL Server `. `Python`. `DrawIO`. `VS Code`. `Git`. `Github `
+`SQL Server ` • `Python` • `DrawIO` • `VS Code` • `Git` • `Github `
 
 <p align="center"> 
-  
  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
 ![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFFFFF.svg?style=for-the-badge&logo=read-the-docs&logoColor=black)
   </a>
@@ -207,14 +206,14 @@ The company faced challenges in translating its <strong>daily sales transactions
   <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
-`Time-Series Analysis`. `Data Visualization`. `Calculated Fields`. `Filters & Parameters`. `Dashboard Design`. `Interactive Dashboards`. `Data Storytelling`. `Segmentation Analysis`. `Trend Analysis`. `Business Insights`
+`Time-Series Analysis` • `Data Visualization` • `Calculated Fields` • `Filters & Parameters` • `Dashboard Design` • `Interactive Dashboards` • `Data Storytelling` • `Segmentation Analysis` • `Trend Analysis` • `Business Insights`
     
 <p align="center">
 
   <img src="https://img.shields.io/badge/Technology-A7C7E7?style=for-the-badge&logoColor=white" alt="Technology Badge">
 </p>
 
-`Excel`.`Tableau `. `DrawIO`. `VS Code`. `Git`. `Github `. 
+`Excel` • `Tableau ` • `DrawIO` • `VS Code` • `Git` • `Github `
 
  
 <p align="center">
