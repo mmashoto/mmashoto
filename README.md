@@ -283,8 +283,8 @@ The most effective way to demonstrate skills is through practical work and shari
 ###### Python :
 <div align="left">
   
-- [Python Introduction Certificate](#) (Jan 2023)  
-- [Python Intermediate Certificate](#) (Feb 2023)  
+- [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9dc32a15dff0630d15d9133442e4822d5f289d87) (Jan 2023)(DataCamp)
+- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/bbe4654e5b7f3efab3a187e1c2b0a2c7f4ff70ef) (Feb 2023)(DataCamp) 
 
 ###### R :
 <div align="left">
