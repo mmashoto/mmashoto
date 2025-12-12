@@ -157,6 +157,10 @@ The company’s data was scattered across multiple operational systems, includin
   <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
+`DDL (Data Definition Language)`. `DML (Data Manipulation Language)`. `DQL (Data Query Language)`. `Joins & Set Operations`. `Aggregations & Analytics`. `Data Transformation & Cleaning`. `Performance & Optimization`. `Stored Procedures / Functions`. `Advanced Data Exploration`
+
+
+
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-a7c7e7.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-a7c7e7.svg?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-a7c7e7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
