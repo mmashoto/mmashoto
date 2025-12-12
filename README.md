@@ -283,14 +283,14 @@ The most effective way to demonstrate skills is through practical work and shari
 ###### Python :
 <div align="left">
   
-- [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9dc32a15dff0630d15d9133442e4822d5f289d87) (Jan 2023)(DataCamp)
-- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/bbe4654e5b7f3efab3a187e1c2b0a2c7f4ff70ef) (Feb 2023)(DataCamp) 
+- [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9dc32a15dff0630d15d9133442e4822d5f289d87) (Mar 2022)(DataCamp)
+- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/bbe4654e5b7f3efab3a187e1c2b0a2c7f4ff70ef) (April 2022)(DataCamp) 
 
 ###### R :
 <div align="left">
   
-- [Introduction to R](https://www.datacamp.com/completed/statement-of-accomplishment/course/6519f98bd1ec1be1534a945b40c5c435d047ed8b) (Dec 2022)(DataCamp) 
-- [Working with Dates and Times in R](https://www.datacamp.com/completed/statement-of-accomplishment/course/317e23cf279a90a3f9486999fe9efea2ca4c9d52) (Jan 2023)(DataCamp)
+- [Introduction to R](https://www.datacamp.com/completed/statement-of-accomplishment/course/6519f98bd1ec1be1534a945b40c5c435d047ed8b) (Mar 2022)(DataCamp) 
+- [Working with Dates and Times in R](https://www.datacamp.com/completed/statement-of-accomplishment/course/317e23cf279a90a3f9486999fe9efea2ca4c9d52) (April 2022)(DataCamp)
 
 ###### SQL :
 <div align="left">
