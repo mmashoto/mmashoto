@@ -253,10 +253,8 @@ The company faced challenges in translating its <strong>daily sales transactions
 <!--     Certifications     -->
 <!-- =======================  -->
 
-<small>
 
-The most effective way to demonstrate skills is through practical work and sharing completed projects. However, certifications can serve as a valuable complement, showing formal learning and commitment. Below is a list of my completed certifications, presented in reverse-chronological order:
-</small>
+##### The most effective way to demonstrate skills is through practical work and sharing completed projects. However, certifications can serve as a valuable complement, showing formal learning and commitment. Below is a list of my completed certifications, presented in reverse-chronological order:
 
 </details>
 
