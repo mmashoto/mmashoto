@@ -24,10 +24,10 @@
   My ability to <b>empathize with stakeholders</b> allows me to understand their needs, translate challenges into analytical goals, and deliver insights that truly support their objectives.  
 </p>
 
-<p align="left">
-🌱 **Currently learning:** Statistical analysis, Python for automation, and advanced data visualization
-💡 **Interests:** Data storytelling, process improvement, business analytics, translating insights into action, and creating visually intuitive reports
-✨ **Goal:** To become a data professional who combines analytical precision, operational insight, and creativity with empathy, delivering insights that truly make an impact.  
+<p align="left">  
+  🌱 <strong>Currently learning:</strong> Statistical analysis, Python for automation, and advanced data visualization. 
+  💡 <strong>Interests:</strong> Data storytelling, process improvement, business analytics, translating insights into action, and creating visually intuitive reports  
+  ✨ <strong>Goal:</strong> To become a data professional who combines analytical precision, operational insight, and creativity with empathy, delivering insights that truly make an impact.
 </p>
  
 <!-- ======================= -->
