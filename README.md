@@ -166,11 +166,11 @@ The company’s data was scattered across multiple operational systems, includin
 
 `SQL Server ` • `Python` • `DrawIO` • `VS Code` • `Git` • `Github `
 
-<p align="center"> 
- <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
-![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFFFFF.svg?style=for-the-badge&logo=read-the-docs&logoColor=black)
+<p align="center">
+  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20Project-E6E6E6.svg?style=for-the-badge&logo=read-the-docs&logoColor=FFFFFF" alt="Go to Project">
   </a>
-  </p>
+</p>
 
 </div>      
         </td>
@@ -217,11 +217,10 @@ The company faced challenges in translating its <strong>daily sales transactions
 
  
 <p align="center">
-  
- <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
-![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFFFFF.svg?style=for-the-badge&logo=read-the-docs&logoColor=black)
+  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20Project-E6E6E6.svg?style=for-the-badge&logo=read-the-docs&logoColor=FFFFFF" alt="Go to Project">
   </a>
-  </p>
+</p>
   
   </div>
         </td>
