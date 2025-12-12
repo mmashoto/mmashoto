@@ -189,10 +189,10 @@ The company’s data was scattered across multiple operational systems, includin
         <td width="20%">
           
 <!-- First image -->
-<img width="100%" src="assets/dailygrind_rm.png" alt="TerraVolt Project Screenshot" />
+<img width="100%" src="assets/dailygrind_logo.png" alt="Daily Grind’s logo" />
 
 <!-- Second image -->
-<img width="100%" src="assets/dailygrind.png" alt="TerraVolt Screenshot" />
+<img width="100%" src="assets/dailygrind_rm.png" alt="People having coffee" />
         </td>
         <td width="60%">
             <h2>Daily Grind Coffee Sales Analysis</h2>
