@@ -256,6 +256,22 @@ The company faced challenges in translating its <strong>daily sales transactions
 
 ##### The most effective way to demonstrate skills is through practical work and sharing completed projects. However, certifications can serve as a valuable complement, showing formal learning and commitment. Below is a list of my completed certifications, presented in reverse-chronological order:
 
+
+#### Python 
+- [Python Introduction Certificate](#) (Jan 2023)  
+- [Python Intermediate Certificate](#) (Feb 2023)  
+
+#### 
+- [R Certificate 1](#) (Dec 2022)  
+- [R Certificate 2](#) (Jan 2023)  
+
+#### SQL 
+- [SQL Certificate](#) (Mar 2023)  
+
+#### Project Management 
+- [Project Management Certificate 1](#) (Nov 2022)  
+- [Project Management Certificate 2](#) (Dec 2022)
+
 </details>
 
 <!-- ======================= -->
