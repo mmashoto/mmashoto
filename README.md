@@ -289,8 +289,8 @@ The most effective way to demonstrate skills is through practical work and shari
 ###### R :
 <div align="left">
   
-- [R Certificate 1](#) (Dec 2022)  
-- [R Certificate 2](#) (Jan 2023)  
+- [Introduction to R](https://www.datacamp.com/completed/statement-of-accomplishment/course/6519f98bd1ec1be1534a945b40c5c435d047ed8b) (Dec 2022)(DataCamp) 
+- [Working with Dates and Times in R](https://www.datacamp.com/completed/statement-of-accomplishment/course/317e23cf279a90a3f9486999fe9efea2ca4c9d52) (Jan 2023)(DataCamp)
 
 ###### SQL :
 <div align="left">
