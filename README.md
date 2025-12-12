@@ -154,7 +154,7 @@ The company’s data was scattered across multiple operational systems, includin
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
+  <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
 `DDL (Data Definition Language)`. `DML (Data Manipulation Language)`. `DQL (Data Query Language)`. `Joins & Set Operations`. `Aggregations & Analytics`. `Data Transformation & Cleaning`. `Performance & Optimization`
@@ -164,9 +164,9 @@ The company’s data was scattered across multiple operational systems, includin
   <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
-`SQL Server `. `Python`. `DrawIO`. `VS Code`. `Git`. `Github `. 
+`SQL Server `. `Python`. `DrawIO`. `VS Code`. `Git`. `Github `
  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
-![Go to Project](https://img.shields.io/badge/Go%20to%20Project-F7B5CD.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFFFFF.svg?style=for-the-badge&logo=read-the-docs&logoColor=black)
   </a>
 
 </div>      
@@ -203,14 +203,22 @@ The company faced challenges in translating its <strong>daily sales transactions
   <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
 </p>
 
-  <div align="right">
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
+</p>
+
+`Time-Series Analysis`. `Data Visualization`. `Calculated Fields`. `Filters & Parameters`. `Dashboard Design`. `Interactive Dashboards`. `Data Storytelling`. `Segmentation Analysis`. `Trend Analysis`. `Business Insights`
     
-![Excel](https://img.shields.io/badge/Excel-a7c7e7.svg?style=for-the-badge&logo=excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-a7c7e7.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-a7c7e7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-a7c7e7.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Skills-A7C7E7?style=for-the-badge&logoColor=white" alt="Skills Badge">
+</p>
+
+`Excel`.`Tableau `. `DrawIO`. `VS Code`. `Git`. `Github `. 
+
  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
-![Go to Project](https://img.shields.io/badge/Go%20to%20Project-F7B5CD.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Go to Project](https://img.shields.io/badge/Go%20to%20Project-FFFFFF.svg?style=for-the-badge&logo=read-the-docs&logoColor=black)
   </a>
   </div>
         </td>
