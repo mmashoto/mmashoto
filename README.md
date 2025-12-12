@@ -17,11 +17,13 @@
 <h3 align="center">About Me</h3>
 
 <p align="left">
-  I'm a <b>Data Analyst</b> passionate about transforming data into insights that drive meaningful decisions.  
-  I enjoy uncovering trends, solving problems, and presenting information in ways that bring clarity and action.  
-  <br><br>
-  I have a <b>penchant for creative visualization</b>, influenced by my artistic background, which helps me communicate complex data in simple, engaging ways.  
-  My ability to <b>empathize with stakeholders</b> allows me to understand their needs, translate challenges into analytical goals, and deliver insights that truly support their objectives.  
+  I'm <strong>Mashoto Makobe</strong>, a <strong>Data Analyst</strong> with a penchant for transforming data into clarity. My background in <strong>Industrial Engineering</strong> and experience as an <strong>Operations Manager</strong> give me a structured, efficiency-driven approach to solving problems and improving processes.  
+
+Alongside this technical foundation, I <strong>blend creativity with analytics</strong>. As an <strong>artist at heart</strong>, whether I’m painting strokes or turning complex data into insights, I enjoy crafting work that is both clear and engaging.  
+
+This creative perspective intersects naturally with my analytical mindset, shaping how I design, communicate insights, and simplify complexity. Combined with strong <strong>attention to detail</strong>, this fusion of engineering logic and creative intuition allows me to create dashboards and reports that are precise, intuitive, and visually engaging.
+
+I enjoy uncovering trends, bringing clarity to complex information, and delivering insights that feel practical, human, and easy for stakeholders to act on.
 </p>
 
 <p align="left">  
