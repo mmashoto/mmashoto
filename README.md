@@ -43,12 +43,9 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 
 
 
-<div align="center">
-  <img src="assets/sylveon_rm.png" alt="Sylveon" width="80" style="vertical-align: middle; margin-right: 12px;" />
-  <span style="vertical-align: middle;">
-    <h2 style="display: inline; margin: 0;">Connect with me</h2>
-  </span>
-</div>
+<p align="center">
+  <img src="assets/sylveon_rm.png" alt="Sylveon" width="80" /> <h3>Connect with me</h3>
+</p>
 
 
 
