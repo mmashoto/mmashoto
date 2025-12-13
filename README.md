@@ -41,10 +41,19 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 <!--   🔗 Social Profiles    -->
 <!-- ======================= -->
 
+
+<!---
 <h3 align="center">
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png" width="50" style="vertical-align: middle;"/>
   Connect with me
 </h3>
+-->
+
+<p>
+<img src="assets/sylveon_rm.png" alt="Sylveon" width="50" />
+</p>
+ 
+
 
 Let's stay connected! Feel free to connect with me on the following platforms: 
 
