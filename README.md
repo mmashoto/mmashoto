@@ -49,11 +49,12 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 </h3>
 -->
 
+<p align="center">
+  <img src="assets/sylveon_rm.png" alt="Sylveon" width="50" />
+</p>
+
 <p>
-<img src="assets/sylveon_rm.png" alt="Sylveon" width="50" />
-
-Let's stay connected! Feel free to connect with me on the following platforms: 
-
+  Let's stay connected! Feel free to connect with me on the following platforms:
 </p>
 
 <div align="center">
