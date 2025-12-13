@@ -42,7 +42,7 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 <!-- ======================= -->
 
 
-<h3 align="center"> <img src="assets/sylveon_rm.png" alt="Sylveon" width="60" /> Connect with me</h3> 
+<h3 align="center"> <img src="assets/arceus_rm.png" alt="Arceus" width="60" /> Connect with me</h3> 
 
 
 <!---
