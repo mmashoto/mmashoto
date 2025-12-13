@@ -14,7 +14,7 @@
 <!-- ======================= -->
 
 
-<h3 align="center"> <img src="assets/sylveon_rm.png" alt="Sylveon" width="60" /> About me</h3> 
+<h3 align="center"> About me<img src="assets/sylveon_rm.png" alt="Sylveon" width="60" /> </h3> 
 
 <p align="left">
   I'm <strong>Mashoto Makobe</strong>, a <strong>Data Analyst</strong> with a penchant for transforming data into clarity. My background in <strong>Industrial Engineering</strong> and experience as an <strong>Operations Manager</strong> give me a structured, efficiency-driven approach to solving problems and improving processes.  
