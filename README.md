@@ -42,7 +42,7 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 <!-- ======================= -->
 
 <h3 align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png" width="40" style="vertical-align: middle;"/>
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png" width="50" style="vertical-align: middle;"/>
   Connect with me
 </h3>
 
