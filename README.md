@@ -236,16 +236,11 @@ The company faced challenges in translating its <strong>daily sales transactions
         <td width="20%">
           
 <!-- First image -->
-<img width="100%" src="assets/compasscart_logo.png" alt="CompassCart's logo" />
-
-<!-- Second image -->
 <img width="100%" src="assets/compasscart_rm.png" alt="Retail Therapy" />
         </td>
         <td width="60%">
             <h2>CompassCart Tableau Sales Dashboard</h2>
-<p>
-Located in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique coffee shop renowned for its <strong>artisanal coffee blends</strong> and 
-</p>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
@@ -278,10 +273,6 @@ Located in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique c
     <tr>
         <td width="60%">
             <h2>Python-Based Data Quality Assessment Framework</h2>
-<p>
-Founded
-</p>
-
 
 <p align="center">
 
@@ -313,9 +304,6 @@ Founded
 </table>
 
 
-
-
-
 <table bordercolor="#66b2b2">
     <tr>
         <td width="20%">
@@ -324,10 +312,8 @@ Founded
 <img width="100%" src="assets/coming_soon_rm.png" alt="CompassCart's logo" />
         </td>
         <td width="60%">
-            <h2>CompassCart Tableau Sales Dashboard</h2>
-<p>
-Coming Soon
-</p>
+           <h2>New Project </h2>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
