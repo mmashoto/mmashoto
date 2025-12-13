@@ -448,6 +448,8 @@ The most effective way to demonstrate skills is through practical work and shari
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmashoto&style=for-the-badge&color=A7C7E7&labelColor=A7C7E7&logoColor=ffffff" alt="Profile Views" />
+
+<img src="assets/lucario_rm.png" alt="Lucario" width="28" />
 </p>
  
 <p align="center">
