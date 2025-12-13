@@ -44,11 +44,13 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 
 
 <p align="center">
-  <img src="assets/sylveon_rm.png" alt="Sylveon" width="80" /> <h3>Connect with me</h3>
+  <img src="assets/sylveon_rm.png" alt="Sylveon" width="40" /> <h3>Connect with me</h3>
 </p>
 
 
-
+<p align="center">
+  <img src="assets/sylveon_rm.png" alt="Sylveon" width="40" /> <strong>Connect with me</strong>
+</p>
 
 <!---
 <h3 align="center">
