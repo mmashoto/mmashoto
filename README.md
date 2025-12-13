@@ -42,6 +42,18 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 <!-- ======================= -->
 
 
+
+
+<div align="center">
+  <div style="display: inline-flex; align-items: center; gap: 12px;">
+    <img src="assets/sylveon_rm.png" alt="Sylveon" width="80" />
+    <h2 style="margin: 0;">Connect with me</h2>
+  </div>
+</div>
+
+
+
+
 <!---
 <h3 align="center">
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png" width="50" style="vertical-align: middle;"/>
