@@ -30,7 +30,7 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 
 <p align="left">  
   
-  🌱 <strong>Currently learning:</strong> Statistical analysis, Python for automation, and advanced data visualization. 
+  🌱 <strong>Currently learning:</strong> Statistical analysis, Python for automation, and AWS cloud hosting. 
   
   💡 <strong>Interests:</strong> Data storytelling, process improvement, business analytics, translating insights into action, and creating visually intuitive reports. 
   
