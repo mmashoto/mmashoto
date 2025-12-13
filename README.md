@@ -41,13 +41,6 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 <!--   🔗 Social Profiles    -->
 <!-- ======================= -->
 
-
-
-<p align="center">
-  <img src="assets/sylveon_rm.png" alt="Sylveon" width="40" /> <h3>Connect with me</h3>
-</p>
-
-
 <p align="center">
   <img src="assets/sylveon_rm.png" alt="Sylveon" width="40" /> <strong>Connect with me</strong>
 </p>
@@ -58,19 +51,6 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
   Connect with me
 </h3>
 -->
-
-
-<div align="center">
-  <div>
-    <img src="assets/sylveon_rm.png" alt="Sylveon" width="80" />
-  </div>
-
-  <div>
-    <h3>Connect with me</h3>
-  </div>
-</div>
-
-
 
 <p>
 Let's stay connected! Feel free to connect with me on the following platforms:
