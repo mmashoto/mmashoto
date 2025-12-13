@@ -230,36 +230,128 @@ The company faced challenges in translating its <strong>daily sales transactions
 
 ###### Personal Projects:
 
-<table>
-  <tr>
-    <!-- Column 1 -->
-    <td align="center">
-      <h2> CompassCart Tableau Sales Dashboard</h2>
-<img width="100%" src="assets/compasscart_rm.png" alt="Shopping Therapy" />
-      <br><br>
-      <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
-        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-      </a>
-    </td>
-    <!-- Column 2 -->
-    <td align="center">
-      <h2>Python-Based Data Quality Assessment Framework</h2>
-      <img width="100%" src="assets/python_rm.png" alt="A guy thinking bout code" />
-      <br><br>
-      <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
-        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-      </a>
-    </td>
-    <!-- Column 3 -->
-    <td align="center">
-      <h2>Project Three -->> Coming Soon</h2>
-      <img width="100%" src="assets/coming_soon_rm.png" alt="Project 3" />
-      <br><br>
-      <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md">
-        <img src="https://img.shields.io/badge/TO%20GO%20PROJECT-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+
+<table bordercolor="#66b2b2">
+    <tr>
+        <td width="20%">
+          
+<!-- First image -->
+<img width="100%" src="assets/compasscart_logo.png" alt="CompassCart's logo" />
+
+<!-- Second image -->
+<img width="100%" src="assets/compasscart_rm.png" alt="Retail Therapy" />
+        </td>
+        <td width="60%">
+            <h2>CompassCart Tableau Sales Dashboard</h2>
+<p>
+Located in Cape Town, South Africa, <strong>Daily Grind</strong> is a boutique coffee shop renowned for its <strong>artisanal coffee blends</strong> and 
+</p>
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
+</p>
+
+`Time-Series Analysis` • `Data Visualization` • `Calculated Fields` • `Filters & Parameters` • `Dashboard Design` • `Interactive Dashboards` • `Data Storytelling` • `Segmentation Analysis` • `Trend Analysis` • `Business Insights`
+    
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Technology-A7C7E7?style=for-the-badge&logoColor=white" alt="Technology Badge">
+</p>
+
+`Excel` • `Tableau ` • `DrawIO` • `VS Code` • `Git` • `Github `
+
+ 
+<p align="center">
+  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20Project-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project">
+  </a>
+</p>
+  
+  </div>
+        </td>
+    </tr>
+</table>
+
+
+
+<table bordercolor="#66b2b2">
+    <tr>
+        <td width="60%">
+            <h2>Python-Based Data Quality Assessment Framework</h2>
+<p>
+Founded
+</p>
+
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
+</p>
+
+`Data Profiling & Validation` • `Data Cleaning & Preprocessing` • `Exploratory Data Analysis (EDA)` • `Rule-Based Data Validation` • `Cross-Field Consistency Checks` • `Data Timeliness & Freshness Analysis` • `Modular Code Design` • `Object-Oriented Programming (OOP)`
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Technology-A7C7E7?style=for-the-badge&logoColor=white" alt="Technology Badge">
+</p>
+
+`Python` • `pandas` • `numpy` • `datetime` • `re (Regular Expressions)` • `Jupyter Notebook` • `Git` • `GitHub`
+
+<p align="center">
+  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20Project-E6E6E6.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project">
+  </a>
+</p>
+
+</div>      
+        </td>
+        <td width="20%">
+<!-- First image -->
+<img width="100%" src="assets/python_rm.png" alt="A guy who is obviously thinking about code" />
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+<table bordercolor="#66b2b2">
+    <tr>
+        <td width="20%">
+          
+<!-- First image -->
+<img width="100%" src="assets/coming_soon_rm.png" alt="CompassCart's logo" />
+        </td>
+        <td width="60%">
+            <h2>CompassCart Tableau Sales Dashboard</h2>
+<p>
+Coming Soon
+</p>
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Skills-FFB6C1?style=for-the-badge&logoColor=white" alt="Skills Badge">
+</p>
+
+`Coming Soon` 
+    
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Technology-A7C7E7?style=for-the-badge&logoColor=white" alt="Technology Badge">
+</p>
+
+`Coming Soon`
+
+ 
+<p align="center">
+  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20Project-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project">
+  </a>
+</p>
+  
+  </div>
+        </td>
+    </tr>
 </table>
 
 </details>
