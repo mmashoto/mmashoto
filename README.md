@@ -49,6 +49,18 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
 </h3>
 -->
 
+
+<div align="center">
+  <span>
+    <img src="assets/sylveon_rm.png" alt="Sylveon" width="50" style="vertical-align: middle; margin-right: 8px;" />
+  </span>
+  <span style="display: inline-block; max-width: 600px;">
+    Let's stay connected! Feel free to connect with me on the following platforms:
+  </span>
+</div>
+
+
+
 <p>
   <img src="assets/sylveon_rm.png" alt="Sylveon" width="50" style="vertical-align: middle;" />
   <span style="vertical-align: middle;">
