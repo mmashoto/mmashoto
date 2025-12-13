@@ -56,7 +56,7 @@ This repository is where I <strong>showcase projects</strong>, share my work, an
   </div>
 
   <div>
-    <h2>Connect with me</h2>
+    <h3>Connect with me</h3>
   </div>
 </div>
 
