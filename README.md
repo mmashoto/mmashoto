@@ -448,7 +448,7 @@ The company faced challenges in translating its <strong>daily sales transactions
 </a>
 
 
-<sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+<sup><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 
 </details>
 
