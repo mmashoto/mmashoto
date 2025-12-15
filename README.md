@@ -448,6 +448,9 @@ The most effective way to demonstrate skills is through practical work and shari
        height="192px"/>
 </a>
 
+
+<sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+
 </details>
 
 ---
