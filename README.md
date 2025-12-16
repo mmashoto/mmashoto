@@ -80,30 +80,31 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Programming and Markup Languages:
 <div align="center">
 
+![SQL](https://img.shields.io/badge/SQL-6E6E6E.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6E6E6E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-6E6E6E.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-6E6E6E.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-6E6E6E.svg?style=for-the-badge&logo=HTML&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6E6E6E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6E6E6E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-6E6E6E.svg?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-6E6E6E.svg?style=for-the-badge&logo=sql&logoColor=white)  
+  
 
 ###### Database Management & Cloud Hosting:
 <div align="center">
 
-![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-6E6E6E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6E6E6E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-6E6E6E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-6E6E6E.svg?style=for-the-badge&logo=sql-server&logoColor=white)        
+![SQL Server](https://img.shields.io/badge/SQL%20Server-6E6E6E.svg?style=for-the-badge&logo=sql-server&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)        
 
 ###### Data Visualization:
 <div align="center">
 
 ![Excel](https://img.shields.io/badge/Excel-6E6E6E.svg?style=for-the-badge&logo=excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-6E6E6E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-6E6E6E.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-6E6E6E.svg?style=for-the-badge&logo=power%20bi&logoColor=white)
 
 
 ###### Project Management:
@@ -116,15 +117,15 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Version Control, Software and Platforms:
 <div align="center">
 
+![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-6E6E6E.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6E6E6E.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHubDesktop](https://img.shields.io/badge/GitHub%20Desktop-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6E6E6E.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-6E6E6E.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-6E6E6E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-6E6E6E.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-6E6E6E.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-6E6E6E.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-6E6E6E.svg?style=for-the-badge&logo=audacity&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-6E6E6E.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
 
 ###### Frameworks and Libraries:
 <div align="center">
