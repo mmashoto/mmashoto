@@ -80,6 +80,7 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 ###### Programming and Markup Languages:
 <div align="center">
 
+![Markdown](https://img.shields.io/badge/Markdown-6E6E6E.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-6E6E6E.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-6E6E6E.svg?style=for-the-badge&logo=HTML&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6E6E6E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -91,7 +92,6 @@ Let's stay connected! Feel free to connect with me on the following platforms:
 <div align="center">
 
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-6E6E6E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-6E6E6E.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-6E6E6E.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-6E6E6E.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6E6E6E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
