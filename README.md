@@ -178,7 +178,7 @@ The company’s data was scattered across multiple operational systems, includin
 `SQL Server ` • `Python` • `DrawIO` • `VS Code` • `Git` • `Github `
 
 <p align="center">
-  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+  <a href="https://github.com/mmashoto/sql_data_warehouse_project/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Go%20to%20Project-E6E6E6.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project">
   </a>
 </p>
@@ -228,7 +228,7 @@ The company faced challenges in translating its <strong>daily sales transactions
 
  
 <p align="center">
-  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+  <a href="https://github.com/mmashoto/dailygrind_analytics_2025/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Go%20to%20Project-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project">
   </a>
 </p>
@@ -267,7 +267,7 @@ The company faced challenges in translating its <strong>daily sales transactions
 
  
 <p align="center">
-  <a href="https://github.com/USERNAME/REPO-NAME/blob/main/README.md" target="_blank">
+  <a href="https://github.com/mmashoto/tableau_sales_dashboard/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Go%20to%20Project-6E6E6E.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Go to Project">
   </a>
 </p>
